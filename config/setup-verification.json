@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-26",
+  "quarto": "1.9.38",
+  "pandoc": "3.8.3",
+  "typst": "0.14.2",
+  "pdf_pages": 213,
+  "html_pages": 12,
+  "local_missing_assets_or_links": [],
+  "review_docx_count": 10,
+  "docx_structure": [
+    {
+      "file": "_review\\research-methods-ses.docx",
+      "tables": 26,
+      "embedded_images": 70
+    },
+    {
+      "file": "_review\\chapters\\01-foundations.docx",
+      "tables": 3,
+      "embedded_images": 14
+    },
+    {
+      "file": "_review\\chapters\\02-question-and-design.docx",
+      "tables": 2,
+      "embedded_images": 0
+    },
+    {
+      "file": "_review\\chapters\\03-participants.docx",
+      "tables": 3,
+      "embedded_images": 0
+    },
+    {
+      "file": "_review\\chapters\\04-quantitative-data-collection.docx",
+      "tables": 1,
+      "embedded_images": 0
+    },
+    {
+      "file": "_review\\chapters\\05-quantitative-analysis.docx",
+      "tables": 5,
+      "embedded_images": 42
+    },
+    {
+      "file": "_review\\chapters\\06-interviewing.docx",
+      "tables": 0,
+      "embedded_images": 0
+    },
+    {
+      "file": "_review\\chapters\\07-qualitative-analysis.docx",
+      "tables": 5,
+      "embedded_images": 1
+    },
+    {
+      "file": "_review\\chapters\\08-secondary-research.docx",
+      "tables": 4,
+      "embedded_images": 4
+    },
+    {
+      "file": "_review\\chapters\\09-writing-and-peer-review.docx",
+      "tables": 3,
+      "embedded_images": 9
+    }
+  ],
+  "private_editorial_data_excluded_from_html": true,
+  "source_docx_unchanged": true,
+  "metadata_sync_idempotent": true,
+  "submission_gate_pending_approvals_rejected": true,
+  "draft_chapter_pdf_export": true,
+  "visual_qa": "Representative HTML/PDF pages and rendered DOCX pages reviewed; this is not a complete editorial proof against Word.",
+  "remaining": [
+    "Final author sign-offs",
+    "Resolve original comments and tracked edits",
+    "Replace placeholder cover",
+    "Review 64 image descriptions",
+    "Repair inherited missing/replacement characters and LINK placeholders",
+    "Confirm licence, abstracts, affiliations, publication metadata and domain",
+    "Add publisher-assigned DOIs and regenerate approved final proofs"
+  ],
+  "word_rendered_pages": 328,
+  "word_visual_qa": "Inspected the title, chapter openings, tables, figures, footnotes, references and contact sheets for the entire Word reading copy. LibreOffice Portable 26.2.4 omits the terminal page during export; a QA-only padded copy was used to verify the final metadata page. The delivered DOCX has no added padding."
+}

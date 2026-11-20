@@ -1,0 +1,29 @@
+# Welcome {.unnumbered}
+
+::: {.book-kicker}
+Research methods · Sport and exercise science
+:::
+
+::: {.editors}
+Edited by **Eimear Dolan** and **James Steele**
+:::
+
+An open access primer developed in association with the [Society for Transparency, Openness, and Replication in Kinesiology (STORK)](https://www.storkinesiology.org/).
+
+This book brings together nine chapters on the research process: its philosophical foundations, research questions and design, participant recruitment, quantitative and qualitative methods, secondary research, and writing for publication. Read from the beginning or use the chapter navigation to find a topic.
+
+::: {.draft-note}
+**Draft for editorial and author review.** The text is awaiting final author sign-off. The concept cover still displays placeholder wording and names. Publication details and book and chapter DOIs will be added after confirmation through Kinesiology Books.
+:::
+
+## Read the book {.unnumbered}
+
+Start with the [foreword and introduction](frontmatter/foreword.qmd), then [the foundations of scientific research](chapters/01-foundations.qmd). The sidebar provides chapter navigation and full-text search.
+
+## Download {.unnumbered}
+
+The [draft PDF](research-methods-ses.pdf) contains the same chapter text as this site. The final approved PDF will also be submitted to [Kinesiology Books](https://kinesiologybooks.org/index.php/stork/index). Word review copies are prepared separately for contributing authors.
+
+## Citation {.unnumbered}
+
+This is an unpublished draft. See [citation and publication information](backmatter/citation.qmd) for the current status. The final book and individual chapter citations will include their assigned DOIs.

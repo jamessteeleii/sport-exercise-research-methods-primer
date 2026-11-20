@@ -1,0 +1,4 @@
+{
+  "word_layout_tables_converted_to_content_blocks": 15,
+  "reason": "Single-column Word tables used as boxes for exercises and prose, not comparative tabular data. All cell contents retained in order."
+}

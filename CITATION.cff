@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "This repository contains an unpublished edited-book draft. Use confirmed book/chapter citations after publication; identifiers are pending."
+title: "Research Methods in Sport and Exercise Science: An Open Access Primer"
+authors:
+  - family-names: Dolan
+    given-names: Eimear
+  - family-names: Steele
+    given-names: James
+repository-code: "https://github.com/jamessteeleii/sport-exercise-research-methods-primer"
+preferred-citation:
+  type: book
+  title: "Research Methods in Sport and Exercise Science: An Open Access Primer"
+  editors:
+    - family-names: Dolan
+      given-names: Eimear
+    - family-names: Steele
+      given-names: James

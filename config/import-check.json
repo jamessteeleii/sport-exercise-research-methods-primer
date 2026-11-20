@@ -1,0 +1,19 @@
+{
+  "original_word_tables": 41,
+  "layout_tables_converted": 15,
+  "expected_content_counts": {
+    "Image": 70,
+    "Table": 26,
+    "Math": 20,
+    "Note": 115
+  },
+  "imported_content_counts": {
+    "Image": 70,
+    "Table": 26,
+    "Math": 20,
+    "Note": 115
+  },
+  "note": "Word-count comparison ignores punctuation and normalises Unicode. Structural integrity is not a proof of layout fidelity.",
+  "word_layout_tables_converted_to_content_blocks": 15,
+  "footnotes_namespaced": true
+}

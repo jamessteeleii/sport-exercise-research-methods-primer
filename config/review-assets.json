@@ -1,0 +1,33 @@
+{
+  "review_round": "2026-11-20",
+  "assets": [
+    {
+      "file": "assets/review-20261120/research-paradigms.svg",
+      "sha256": "8fce2b9e013eeeb5ffa3600e5380632fa1ca40957f5b87d0f37fd84d9308eb6d",
+      "source_word_sha256": "6d79f2e5f27ab77f2a6675e4f6e56e3557ce99f1eb06a96206612b1a773d3109",
+      "source_body_block_index": 1832,
+      "method": "Recovered Word VML positions, shapes and literal labels; font size and line wrapping adapted for legibility. For author verification."
+    },
+    {
+      "file": "assets/review-20261120/research-paradigms.png",
+      "sha256": "bbe060b520b0231dca03b54a432fc4bba445a6a06a22cda500c6a8a661c3c0b1",
+      "source_word_sha256": "6d79f2e5f27ab77f2a6675e4f6e56e3557ce99f1eb06a96206612b1a773d3109",
+      "source_body_block_index": 1832,
+      "method": "Recovered Word VML positions, shapes and literal labels; font size and line wrapping adapted for legibility. For author verification."
+    },
+    {
+      "file": "assets/review-20261120/methodological-coherence.svg",
+      "sha256": "b49deda612a557551d63d0864b9c58444aa906076f8481128fb5c50ae3036df8",
+      "source_word_sha256": "6d79f2e5f27ab77f2a6675e4f6e56e3557ce99f1eb06a96206612b1a773d3109",
+      "source_body_block_index": 1869,
+      "method": "Recovered Word VML positions, shapes and literal labels; font size and line wrapping adapted for legibility. For author verification."
+    },
+    {
+      "file": "assets/review-20261120/methodological-coherence.png",
+      "sha256": "c634375e1c0e9efac4a572dcf6ffaef02fc875d9e97cbb6a7d427eaf39a01787",
+      "source_word_sha256": "6d79f2e5f27ab77f2a6675e4f6e56e3557ce99f1eb06a96206612b1a773d3109",
+      "source_body_block_index": 1869,
+      "method": "Recovered Word VML positions, shapes and literal labels; font size and line wrapping adapted for legibility. For author verification."
+    }
+  ]
+}

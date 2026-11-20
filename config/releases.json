@@ -1,0 +1,54 @@
+{
+  "tag_scheme": [
+    "author-review-vX.Y.Z",
+    "submission-vX.Y.Z",
+    "publication-vX.Y.Z",
+    "correction-vX.Y.Z"
+  ],
+  "stages": [
+    {
+      "stage": "author-review",
+      "status": "planned",
+      "tag": null,
+      "commit": null,
+      "date": null,
+      "archive": null,
+      "manifest_sha256": null,
+      "book_doi": null,
+      "notes": null
+    },
+    {
+      "stage": "submission",
+      "status": "planned",
+      "tag": null,
+      "commit": null,
+      "date": null,
+      "archive": null,
+      "manifest_sha256": null,
+      "book_doi": null,
+      "notes": null
+    },
+    {
+      "stage": "final-proofs",
+      "status": "planned",
+      "tag": null,
+      "commit": null,
+      "date": null,
+      "archive": null,
+      "manifest_sha256": null,
+      "book_doi": null,
+      "notes": null
+    },
+    {
+      "stage": "publication",
+      "status": "planned",
+      "tag": null,
+      "commit": null,
+      "date": null,
+      "archive": null,
+      "manifest_sha256": null,
+      "book_doi": null,
+      "notes": null
+    }
+  ]
+}

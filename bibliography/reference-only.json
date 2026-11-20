@@ -1,0 +1,362 @@
+[
+  {
+    "id": "hurstImproved1000mRunning2020",
+    "title": "Improved 1000-m Running Performance and Pacing Strategy With Caffeine and Placebo: A Balanced Placebo Design Study",
+    "type": "article-journal",
+    "author": [
+      {
+        "family": "Hurst",
+        "given": "Philip"
+      },
+      {
+        "family": "Schipof-Godart",
+        "given": "Lieke"
+      },
+      {
+        "family": "Hettinga",
+        "given": "Florentina"
+      },
+      {
+        "family": "Roelands",
+        "given": "Bart"
+      },
+      {
+        "family": "Beedie",
+        "given": "Chris"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "container-title": "International Journal of Sports Physiology and Performance",
+    "volume": "15",
+    "issue": "4",
+    "page": "483-488",
+    "DOI": "10.1123/ijspp.2019-0230",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/31575826/"
+  },
+  {
+    "id": "cunninghamCausalInferenceMixtape2021",
+    "title": "Causal inference: The mixtape",
+    "type": "book",
+    "author": [
+      {
+        "family": "Cunningham",
+        "given": "Scott"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "publisher": "Yale University Press",
+    "URL": "https://yalebooks.yale.edu/book/9780300251685/causal-inference/"
+  },
+  {
+    "id": "pearlMindOverData2018",
+    "title": "Mind over data",
+    "type": "article-journal",
+    "author": [
+      {
+        "family": "Pearl",
+        "given": "Judea"
+      },
+      {
+        "family": "Mackenzie",
+        "given": "Dana"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "container-title": "Significance",
+    "volume": "15",
+    "page": "6-7",
+    "DOI": "10.1111/j.1740-9713.2018.01165.x"
+  },
+  {
+    "id": "taylorSourcesSelf1989",
+    "title": "Sources of Self",
+    "type": "book",
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "C."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "publisher": "Harvard University Press"
+  },
+  {
+    "id": "atkinsonEthnographyParticipantObservation1994",
+    "title": "Ethnography and participant observation",
+    "type": "chapter",
+    "author": [
+      {
+        "family": "Atkinson",
+        "given": "P."
+      },
+      {
+        "family": "Hammersley",
+        "given": "M."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "container-title": "Handbook of Qualitative Research",
+    "editor": [
+      {
+        "family": "Denzin",
+        "given": "N. K."
+      },
+      {
+        "family": "Lincoln",
+        "given": "Y. S."
+      }
+    ],
+    "page": "248-261",
+    "publisher": "Sage"
+  },
+  {
+    "id": "barbourLeaderParadoxesCritical2007",
+    "title": "Leader paradoxes and critical ethnographies",
+    "type": "article-journal",
+    "author": [
+      {
+        "family": "Barbour",
+        "given": "J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "container-title": "Academic Exchange Quarterly",
+    "volume": "11",
+    "issue": "2",
+    "page": "117-121"
+  },
+  {
+    "id": "berryEthnographersChoice2011",
+    "title": "The ethnographer's choice: Why ethnographers do ethnography",
+    "type": "article-journal",
+    "author": [
+      {
+        "family": "Berry",
+        "given": "K."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "container-title": "Cultural Studies - Critical Methodologies",
+    "volume": "11",
+    "issue": "2",
+    "page": "165-177"
+  },
+  {
+    "id": "denzinResearchAct1970",
+    "title": "The research act: A theoretical introduction to sociological methods",
+    "type": "book",
+    "author": [
+      {
+        "family": "Denzin",
+        "given": "N. K."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1970
+        ]
+      ]
+    },
+    "publisher": "Aldine"
+  },
+  {
+    "id": "denzinAnalyticalAutoethnography2006",
+    "title": "Analytical Autoethnography, or Déjà Vu all Over Again",
+    "type": "article-journal",
+    "author": [
+      {
+        "family": "Denzin",
+        "given": "N. K."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "container-title": "Journal of Contemporary Ethnography",
+    "volume": "35",
+    "issue": "4",
+    "page": "419-428"
+  },
+  {
+    "id": "denzinLincolnSageHandbook2011",
+    "title": "The SAGE handbook of qualitative research",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "publisher": "Sage",
+    "editor": [
+      {
+        "family": "Denzin",
+        "given": "N. K."
+      },
+      {
+        "family": "Lincoln",
+        "given": "Y. S."
+      }
+    ]
+  },
+  {
+    "id": "ellisEthnographicI2004",
+    "title": "The ethnographic I",
+    "type": "book",
+    "author": [
+      {
+        "family": "Ellis",
+        "given": "C."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "publisher": "AltaMira Press"
+  },
+  {
+    "id": "finlayOutingResearcher2002",
+    "title": "‘Outing’ the researcher: The provenance, process, and practice of reflexivity",
+    "type": "article-journal",
+    "author": [
+      {
+        "family": "Finlay",
+        "given": "Linda"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "container-title": "Qualitative Health Research",
+    "volume": "12",
+    "issue": "4",
+    "page": "531-545",
+    "DOI": "10.1177/104973202129120052",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/11939252/"
+  },
+  {
+    "id": "glaserTheoreticalSensitivity1978",
+    "title": "Theoretical sensitivity",
+    "type": "book",
+    "author": [
+      {
+        "family": "Glaser",
+        "given": "B. G."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1978
+        ]
+      ]
+    },
+    "publisher": "Sociology Press"
+  },
+  {
+    "id": "reevesQualitativeMethodologiesEthnography2008",
+    "title": "Qualitative research methodologies: Ethnography",
+    "type": "article-journal",
+    "author": [
+      {
+        "family": "Reeves",
+        "given": "Scott"
+      },
+      {
+        "family": "Kuper",
+        "given": "Ayelet"
+      },
+      {
+        "family": "Hodges",
+        "given": "Brian David"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "container-title": "BMJ",
+    "volume": "337",
+    "page": "a1020",
+    "DOI": "10.1136/bmj.a1020"
+  },
+  {
+    "id": "spiegelbergDoingPhenomenology1975",
+    "title": "Doing phenomenology: Essays on and in phenomenology",
+    "type": "book",
+    "author": [
+      {
+        "family": "Spiegelberg",
+        "given": "Herbert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1975
+        ]
+      ]
+    },
+    "publisher": "Martinus Nijhoff",
+    "URL": "https://libcat.canterbury.ac.nz/Record/57133"
+  }
+]

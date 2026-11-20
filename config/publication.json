@@ -1,0 +1,169 @@
+{
+  "title": "Research Methods in Sport and Exercise Science",
+  "subtitle": "An Open Access Primer",
+  "editors": [
+    "Eimear Dolan",
+    "James Steele"
+  ],
+  "status": "draft",
+  "version": "0.1.0",
+  "publisher": "Kinesiology Books",
+  "publication_date": null,
+  "book_doi": null,
+  "site_url": null,
+  "license": null,
+  "isbn": null,
+  "chapters": [
+    {
+      "id": "ch01",
+      "number": 1,
+      "file": "chapters/01-foundations.qmd",
+      "title": "Foundations of scientific research in the sport and exercise sciences",
+      "authors": [
+        "James Steele"
+      ],
+      "doi": null,
+      "abstract": null,
+      "pages": null,
+      "author_approval": "pending",
+      "approved_source_sha256": null,
+      "approved_date": null
+    },
+    {
+      "id": "ch02",
+      "number": 2,
+      "file": "chapters/02-question-and-design.qmd",
+      "title": "From philosophy to practice — defining your research question and design",
+      "authors": [
+        "Eimear Dolan"
+      ],
+      "doi": null,
+      "abstract": null,
+      "pages": null,
+      "author_approval": "pending",
+      "approved_source_sha256": null,
+      "approved_date": null
+    },
+    {
+      "id": "ch03",
+      "number": 3,
+      "file": "chapters/03-participants.qmd",
+      "title": "Participant identification, selection and recruitment",
+      "authors": [
+        "Christopher McCrum",
+        "Christoph Schneider",
+        "Zachary Zenko"
+      ],
+      "doi": null,
+      "abstract": null,
+      "pages": null,
+      "author_approval": "pending",
+      "approved_source_sha256": null,
+      "approved_date": null
+    },
+    {
+      "id": "ch04",
+      "number": 4,
+      "file": "chapters/04-quantitative-data-collection.qmd",
+      "title": "Laboratory and field-based data collection (quantitative)",
+      "authors": [
+        "Bryan Saunders",
+        "Felipe Marticorena",
+        "Philip Hurst",
+        "Lewis Gough"
+      ],
+      "doi": null,
+      "abstract": null,
+      "pages": null,
+      "author_approval": "pending",
+      "approved_source_sha256": null,
+      "approved_date": null
+    },
+    {
+      "id": "ch05",
+      "number": 5,
+      "file": "chapters/05-quantitative-analysis.qmd",
+      "title": "Understanding quantitative analysis in sport and exercise science: concepts, tools and approaches",
+      "authors": [
+        "Tony Myers",
+        "Iain J Gallagher",
+        "Jacob Reading"
+      ],
+      "doi": null,
+      "abstract": null,
+      "pages": null,
+      "author_approval": "pending",
+      "approved_source_sha256": null,
+      "approved_date": null
+    },
+    {
+      "id": "ch06",
+      "number": 6,
+      "file": "chapters/06-interviewing.qmd",
+      "title": "The craft of interviewing",
+      "authors": [
+        "Christopher R. Matthews",
+        "Brett Smith"
+      ],
+      "doi": null,
+      "abstract": null,
+      "pages": null,
+      "author_approval": "pending",
+      "approved_source_sha256": null,
+      "approved_date": null
+    },
+    {
+      "id": "ch07",
+      "number": 7,
+      "file": "chapters/07-qualitative-analysis.qmd",
+      "title": "Qualitative data analysis",
+      "authors": [
+        "Lisa Trainor",
+        "Andrea Bundon"
+      ],
+      "doi": null,
+      "abstract": null,
+      "pages": null,
+      "author_approval": "pending",
+      "approved_source_sha256": null,
+      "approved_date": null
+    },
+    {
+      "id": "ch08",
+      "number": 8,
+      "file": "chapters/08-secondary-research.qmd",
+      "title": "Approaches to secondary research",
+      "authors": [
+        "Gabriel Perri Esteves",
+        "Andy Hall",
+        "Leon Greig",
+        "Paul Swinton",
+        "Eimear Dolan"
+      ],
+      "doi": null,
+      "abstract": null,
+      "pages": null,
+      "author_approval": "pending",
+      "approved_source_sha256": null,
+      "approved_date": null
+    },
+    {
+      "id": "ch09",
+      "number": 9,
+      "file": "chapters/09-writing-and-peer-review.qmd",
+      "title": "Writing-up a research article and submitting for peer review",
+      "authors": [
+        "Eimear Dolan",
+        "Nicholas Tiller",
+        "Jennifer Murphy",
+        "Stuart A. McErlain-Naylor"
+      ],
+      "doi": null,
+      "abstract": null,
+      "pages": null,
+      "author_approval": "pending",
+      "approved_source_sha256": null,
+      "approved_date": null
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+# Required only for extracting individual chapter PDFs from the whole-book PDF.
+pypdf==6.10.0

@@ -1,0 +1,100 @@
+brand: _brand.yml
+
+project:
+  type: book
+  output-dir: _book
+  resources:
+    - assets/cover-placeholder.png
+    - "!editorial/**"
+    - "!work/**"
+    - "!_review/**"
+    - "!_submission/**"
+    - "!**/*.docx"
+    - "!**/*.docm"
+  render:
+    - index.qmd
+    - frontmatter/*.qmd
+    - chapters/*.qmd
+    - backmatter/*.qmd
+  preview:
+    browser: false
+book:
+  title: "Research Methods in Sport and Exercise Science"
+  subtitle: "An Open Access Primer"
+  output-file: research-methods-ses
+  cover-image: assets/cover-placeholder.png
+  cover-image-alt: "Concept cover with a running track labelled planning, testing, analysing and reporting. The displayed title and editor names are placeholders."
+  search: true
+  page-navigation: true
+  sidebar:
+    style: docked
+    collapse-level: 1
+    tools:
+      - icon: file-earmark-pdf
+        href: research-methods-ses.pdf
+        text: "Download the draft PDF"
+  page-footer:
+    left: "Research Methods in Sport and Exercise Science · Draft"
+    right:
+      - text: "STORK"
+        href: https://www.storkinesiology.org/
+      - text: "Kinesiology Books"
+        href: https://kinesiologybooks.org/index.php/stork/index
+  chapters:
+    - index.qmd
+    - frontmatter/foreword.qmd
+    - chapters/01-foundations.qmd
+    - chapters/02-question-and-design.qmd
+    - chapters/03-participants.qmd
+    - chapters/04-quantitative-data-collection.qmd
+    - chapters/05-quantitative-analysis.qmd
+    - chapters/06-interviewing.qmd
+    - chapters/07-qualitative-analysis.qmd
+    - chapters/08-secondary-research.qmd
+    - chapters/09-writing-and-peer-review.qmd
+    - backmatter/references.qmd
+    - backmatter/citation.qmd
+bibliography: references.bib
+csl: bibliography/apa.csl
+citeproc: true
+link-citations: true
+reference-section-title: References
+lang: en-GB
+number-sections: false
+filters:
+  - scripts/book-formatting.lua
+toc: true
+toc-depth: 2
+execute:
+  enabled: false
+format:
+  html:
+    include-before-body: assets/draft-banner.html
+    theme: [cosmo, assets/stork.scss]
+    fontsize: 1.05rem
+    linestretch: 1.65
+    link-external-newwindow: true
+    link-external-icon: true
+    smooth-scroll: true
+    code-copy: true
+    mainfont: "Georgia, Cambria, serif"
+  typst:
+    include-in-header: assets/pdf-cover.typ
+    author: "Edited by Eimear Dolan and James Steele"
+    papersize: a4
+    fontsize: 11pt
+    mainfont: Libertinus Serif
+    margin:
+      x: 24mm
+      y: 24mm
+    include-before-body:
+      text: |
+        #set heading(numbering: none)
+        #show table: set text(size: 9pt)
+        #show table.cell: set par(justify: false)
+        #set page(header: align(center, text(size: 8pt, fill: rgb("875300"))[DRAFT IN PROGRESS — NOT THE FINAL VERSION]))
+    toc: true
+    keep-typ: true
+
+metadata-files:
+  - config/book-metadata.yml

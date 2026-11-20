@@ -1,0 +1,562 @@
+﻿chapter,original,replacement,method,occurrences
+01-foundations,(Gleason et al. 2024b; Gleason et al. 2024a),[@gleasonDefiningSportScientist2024a; @gleasonDefiningSportScientist2024],embedded-zotero-field,1
+01-foundations,(Ryall 2011; Foster et al. 2016; Pisk 2014),[@ryallNotionScienceSport2011; @fosterScientificDiscoveryIts2016; @piskSportScienceOntological2014],embedded-zotero-field,1
+01-foundations,(Parry 2005),[-@parryMustScientistsThink2005],embedded-zotero-field,1
+01-foundations,(Weinberg 1970; Meehl 1993; Laplane et al. 2019; Thorp 2024),[@weinbergViewsAxiologyScience1970; @meehlPhilosophyScienceHelp1993; @laplaneWhyScienceNeeds2019; @thorpTeachPhilosophyScience2024],embedded-zotero-field,1
+01-foundations,(Popper 1995),[@popperMythFrameworkDefence1995],embedded-zotero-field,1
+01-foundations,(Grix 2002),[-@grixIntroducingStudentsGeneric2002],embedded-zotero-field,1
+01-foundations,(Grix 2002; Hay 2002),[@grixIntroducingStudentsGeneric2002; @hayPoliticalAnalysisCritical2002],embedded-zotero-field,1
+01-foundations,(Caws 1965),[-@cawsPhilosophyScienceSystematic1965],embedded-zotero-field,1
+01-foundations,(Schwartz 1990),[@schwartzCreationDestructionValue1990],embedded-zotero-field,1
+01-foundations,(Roberts e Potrac 2014),[@robertsBehaviourismConstructivismSports2014],embedded-zotero-field,1
+01-foundations,(Roberts e Potrac 2014),[@robertsBehaviourismConstructivismSports2014],embedded-zotero-field,1
+01-foundations,(Westbrook 2008),[-@westbrookPragmatistFamilyRomance2008],embedded-zotero-field,1
+01-foundations,(Hacking 1983),[-@hackingRepresentingInterveningIntroductory1983],embedded-zotero-field,1
+01-foundations,(Bridgman 1927),[@bridgmanLogicModernPhysics1927],embedded-zotero-field,1
+01-foundations,(von Glasersfeld 2007),[@vonglasersfeldKeyWorksRadical2007],embedded-zotero-field,1
+01-foundations,(Kuhn e Hacking 2012),[-@kuhnStructureScientificRevolutions2012],embedded-zotero-field,1
+01-foundations,(Popper 2002a),[-@popperLogicScientificDiscovery2002],embedded-zotero-field,1
+01-foundations,(Bhaskar 2020),[-@bhaskarRealistTheoryScience2020],embedded-zotero-field,1
+01-foundations,(Roberts et al. 2023),[@robertsMechanismsMechanicalOverloadinduced2023],embedded-zotero-field,1
+01-foundations,(Yucel 2018a),[-@yucelScientistsOntologicalEpistemological2018],embedded-zotero-field,1
+01-foundations,(Weinberg 1970),[@weinbergViewsAxiologyScience1970],embedded-zotero-field,1
+01-foundations,(Ludwig 2016; Reydon e Ereshefsky 2022),[@ludwigOntologicalChoicesValueFree2016; @reydonHowIncorporateNonEpistemic2022],embedded-zotero-field,1
+01-foundations,(Longino 1990; Reiss e Sprenger 2020),[@longinoScienceSocialKnowledge1990; @reissScientificObjectivity2020],embedded-zotero-field,1
+01-foundations,(Merton 1973),[@mertonSociologyScienceTheoretical1973],embedded-zotero-field,1
+01-foundations,(Schwartz 2022a),[@schwartzScienceScholarshipIntellectual2022],embedded-zotero-field,1
+01-foundations,(Schwartz 2022a),[@schwartzScienceScholarshipIntellectual2022],embedded-zotero-field,1
+01-foundations,(Berger 2015a; Holmes 2020),[@bergerNowSeeIt2015; @holmesResearcherPositionalityConsideration2020],embedded-zotero-field,1
+01-foundations,(Jamieson et al. 2023; Thorgaard-Rasmussen et al. 2022),[@jamiesonReflexivityQuantitativeResearch2023; @thorgaard-rasmussenReflexivityQuantitativeResearch2022],embedded-zotero-field,1
+01-foundations,(Schwartz 2022b),[-@schwartzScienceScholarshipIntellectual2022],embedded-zotero-field,1
+01-foundations,(Hempel 1967),[@hempelPhilosophyNaturalScience1967],embedded-zotero-field,1
+01-foundations,(Popper 2002b),[-@popperLogicScientificDiscovery2002],embedded-zotero-field,1
+01-foundations,(Carnap 1967; Jeffreys 1973; Keynes 2004; Reichenbach 1971),[@carnapLogicalFoundationsProbability1967; @jeffreysScientificInference1973; @keynesTreatiseProbability2004; @reichenbachTheoryProbability1971],embedded-zotero-field,1
+01-foundations,(Bunge 1960),[@bungePlaceInductionScience1960],embedded-zotero-field,1
+01-foundations,(Thagard 1988),[-@thagardComputationalPhilosophyScience1988],embedded-zotero-field,1
+01-foundations,(Steele et al. 2023a),[@steeleMythPeriodisation2023],embedded-zotero-field,1
+01-foundations,(Lipton 2003),[@liptonInferenceBestExplanation2003],embedded-zotero-field,1
+01-foundations,(Thagard 1988),[-@thagardComputationalPhilosophyScience1988],embedded-zotero-field,1
+01-foundations,(Maier et al. 2023),[-@maierComparingTheoriesIsing2024],embedded-zotero-field,1
+01-foundations,(Breenfeldt Andersen et al. 2021),[@breenfeldtandersenAbductiveInferenceApproach2021],embedded-zotero-field,1
+01-foundations,(Yucel 2018b),[-@yucelScientistsOntologicalEpistemological2018],embedded-zotero-field,1
+01-foundations,(Yucel 2018b),[-@yucelScientistsOntologicalEpistemological2018],embedded-zotero-field,1
+01-foundations,(Howell 2013),[@howellIntroductionPhilosophyMethodology2013],embedded-zotero-field,1
+01-foundations,(Hofman et al. 2021; Hofman et al. 2017; Shmueli 2010),[@shmueliExplainPredict2010; @hofmanPredictionExplanationSocial2017; @hofmanIntegratingExplanationPrediction2021],embedded-zotero-field,1
+01-foundations,(Harlow et al. 1997),[@harlowProblemEpistemologyNot1997],embedded-zotero-field,1
+01-foundations,(Gerring 2012),[@gerringMereDescription2012],embedded-zotero-field,1
+01-foundations,(Bonetto et al. 2023),[@bonettoLostIdeaPsychology2023],embedded-zotero-field,1
+01-foundations,(Scheel et al. 2021),[@scheelWhyHypothesisTesters2021a],embedded-zotero-field,1
+01-foundations,(Gerring 2012),[-@gerringMereDescription2012],embedded-zotero-field,1
+01-foundations,(Gerring 2012),[-@gerringMereDescription2012],embedded-zotero-field,1
+01-foundations,(Gerring 2012),[-@gerringMereDescription2012],embedded-zotero-field,1
+01-foundations,(Abe et al. 2018; Bell et al. 2017; Jones 2006),[@jonesPhysiologyWorldRecord2006; @bellPhysiologicalProfileMultiple2017; @abeSkeletalMuscleMass2018],embedded-zotero-field,1
+01-foundations,(Gerring 2012),[-@gerringMereDescription2012],embedded-zotero-field,1
+01-foundations,(Gerring 2012),[-@gerringMereDescription2012],embedded-zotero-field,1
+01-foundations,(Androulakis-Korakakis et al. 2021; Ebben et al. 2005; Ebben e Blackard 2001; Shaw et al. 2022; Simenz et al. 2005),[@ebbenStrengthConditioningPractices2001; @ebbenStrengthConditioningPractices2005; @simenzStrengthConditioningPractices2005; @shawContemporaryTrainingPractices2022; @androulakis-korakakisMinimumEffectiveTraining2021],embedded-zotero-field,1
+01-foundations,(Gerring 2012),[-@gerringMereDescription2012],embedded-zotero-field,1
+01-foundations,(Haber et al. 2018; Haber et al. 2022),[@haberCausalLanguageStrength2018; @haberCausalAssociationalLanguage2022],embedded-zotero-field,1
+01-foundations,(McKay et al. 2021; Swann et al. 2015),[@mckayDefiningTrainingPerformance2022; @swannDefiningEliteAthletes2015],embedded-zotero-field,1
+01-foundations,(Anderson e Lystad 2021),[@andersonWhoseSportIt2021],embedded-zotero-field,1
+01-foundations,(Hanson et al. 2020),[@hansonModifiedDelphiStudy2020],embedded-zotero-field,1
+01-foundations,(Dubin 1969),[-@dubinTheoryBuilding1978],embedded-zotero-field,1
+01-foundations,(Lin 2023),[-@linScientificValueExplanation2023],embedded-zotero-field,1
+01-foundations,(Lin 2023),[-@linScientificValueExplanation2023],embedded-zotero-field,1
+01-foundations,(Dubin 1969),[-@dubinTheoryBuilding1978],embedded-zotero-field,1
+01-foundations,(Fry e Smith 1987; Holton e Lowe 2007; Lynham 2002; Scheel et al. 2021),[@fryCongruenceContingencyTheory1987; @holtonGeneralResearchProcess2007; @lynhamQuantitativeResearchTheory2002; @scheelWhyHypothesisTesters2021a],embedded-zotero-field,1
+01-foundations,(Dubin 1969),[@dubinTheoryBuilding1978],embedded-zotero-field,1
+01-foundations,(Busse et al. 2017),[@busseBoundaryConditionsWhat2017],embedded-zotero-field,1
+01-foundations,(Hofman et al. 2021; Hofman et al. 2017),[@hofmanIntegratingExplanationPrediction2021; @hofmanPredictionExplanationSocial2017],embedded-zotero-field,1
+01-foundations,(Murphy et al. 1998; Sechrest e Sidani 1995),[@murphyQualitativeResearchMethods1998; @sechrestQuantitativeQualitativeMethods1995],embedded-zotero-field,1
+01-foundations,(Syed e Westberg 2025; Symonds e Gorard 2010),[@syedMixedMethodsResearchPsychology2025; @symondsDeathMixedMethods2010],embedded-zotero-field,1
+01-foundations,(Yucel 2018b),[@yucelScientistsOntologicalEpistemological2018],embedded-zotero-field,1
+01-foundations,(Murphy et al. 1998),[@murphyQualitativeResearchMethods1998],embedded-zotero-field,1
+01-foundations,(Sechrest e Sidani 1995),[@sechrestQuantitativeQualitativeMethods1995],embedded-zotero-field,1
+01-foundations,(Sechrest e Sidani 1995),[@sechrestQuantitativeQualitativeMethods1995],embedded-zotero-field,1
+01-foundations,(Reichardt e Cook 1979),[@zotero-item-20381],embedded-zotero-field,1
+01-foundations,(Syed e Westberg 2025),[@syedMixedMethodsResearchPsychology2025],embedded-zotero-field,1
+01-foundations,(Syed e Westberg 2025),[@syedMixedMethodsResearchPsychology2025],embedded-zotero-field,1
+01-foundations,(Haig 2005),[@haigExploratoryFactorAnalysis2005],embedded-zotero-field,1
+01-foundations,(Meehl e Golden 1982),[@zotero-item-20408],embedded-zotero-field,1
+01-foundations,(Silge e Robinson 2017),[@silgeWelcomeTextMining2017],embedded-zotero-field,1
+01-foundations,(Syed e Westberg 2025),[@syedMixedMethodsResearchPsychology2025],embedded-zotero-field,1
+01-foundations,(Murphy et al. 1998),[@murphyQualitativeResearchMethods1998],embedded-zotero-field,1
+01-foundations,(Budzynski-Seymour et al. 2023; Budzynski-Seymour et al. 2022; Budzynski-Seymour et al. 2021a; Budzynski-Seymour et al. 2021b; Budzynski-Seymour et al. 2020),[@budzynski-seymourInfluencePublicHealth2021; @budzynski-seymourCanEarthsMightiest2021; @budzynski-seymourPhysicallyActiveExperience2022; @budzynski-seymourFeltWasActually2023; @YouveGotFriend],embedded-zotero-field,1
+01-foundations,(Hunt et al. 2011; McAlearney et al. 2023; Pitts e Price 2022),[@mcalearneyEmbeddingBigQual2023; @huntEmbarkingLargescaleQualitative2011; @pittsBenefitsChallengesLargescale2022],embedded-zotero-field,1
+01-foundations,(Eriksen et al. 2009),[@eriksenHowFastCould2009],embedded-zotero-field,1
+01-foundations,(Nagel 1974),[@nagelWhatItBe1974],embedded-zotero-field,1
+01-foundations,(Dennett 2003),[@dennettWhosFirstHeterophenomenology2003],embedded-zotero-field,1
+01-foundations,(Okhamafe et al. 2025),[@okhamafeMeaningTenUpper2025],embedded-zotero-field,1
+01-foundations,(Hagger e Chatzisarantis 2011),[@haggerNeverTwainShall2011],embedded-zotero-field,1
+01-foundations,(Syed e Westberg 2025),[@syedMixedMethodsResearchPsychology2025],embedded-zotero-field,1
+01-foundations,(Syed e Westberg 2025),[@syedMixedMethodsResearchPsychology2025],embedded-zotero-field,1
+01-foundations,(Creswell e Clark 2007),[@creswellDesigningConductingMixed2007],embedded-zotero-field,1
+01-foundations,(Syed e Westberg 2025),[@syedMixedMethodsResearchPsychology2025],embedded-zotero-field,1
+01-foundations,(Hansson 2021),[@hanssonSciencePseudoScience2021],embedded-zotero-field,1
+01-foundations,(Laudan 1983b),[@laudanDemiseDemarcationProblem1983],embedded-zotero-field,1
+01-foundations,(Feyerabend 2020),[@feyerabendMethodOutlineAnarchistic2020],embedded-zotero-field,1
+01-foundations,(Irzik e Nola 2014),[@irzikNewDirectionsNature2014],embedded-zotero-field,1
+01-foundations,(Prinzing e Vazquez 2025),[@prinzingStudyingPhilosophyDoes2025],embedded-zotero-field,1
+01-foundations,(Fryer 2020),[@fryerShortGuideOntology2020],embedded-zotero-field,1
+01-foundations,(Forscher et al. 2023),[@forscherBenefitsBarriersRisks2023],embedded-zotero-field,1
+01-foundations,(Yucel 2018a),[-@yucelScientistsOntologicalEpistemological2018],embedded-zotero-field,1
+01-foundations,(Bhaskar 2020),[-@bhaskarRealistTheoryScience2020],embedded-zotero-field,1
+01-foundations,(Ludwig 2016),[-@ludwigOntologicalChoicesValueFree2016],embedded-zotero-field,1
+01-foundations,(Ichikawa e Steup 2024),[@ichikawaAnalysisKnowledge2024],embedded-zotero-field,1
+01-foundations,(Fryer 2020),[-@fryerShortGuideOntology2020],embedded-zotero-field,1
+01-foundations,(Corti 2023),[-@cortiScientificRealismReality2023],embedded-zotero-field,1
+01-foundations,(Fryer 2020),[@fryerShortGuideOntology2020],embedded-zotero-field,1
+01-foundations,(Corti 2023),[-@cortiScientificRealismReality2023],embedded-zotero-field,1
+01-foundations,(Fryer 2020),[-@fryerShortGuideOntology2020],embedded-zotero-field,1
+01-foundations,(Yucel 2018a),[-@yucelScientistsOntologicalEpistemological2018],embedded-zotero-field,1
+01-foundations,(Levers 2013),[-@leversPhilosophicalParadigmsGrounded2013],embedded-zotero-field,1
+01-foundations,(Edmonds 2020),[-@edmondsMurderProfessorSchlick2020],embedded-zotero-field,1
+01-foundations,(Ayer 1952),[-@ayerLanguageTruthLogic1952],embedded-zotero-field,1
+01-foundations,(Blumberg e Feigl 1931),[@blumbergLogicalPositivism1931],embedded-zotero-field,1
+01-foundations,(McGuinness 2011),[-@mcguinnessFriedrichWaismannCausalityLogical2011],embedded-zotero-field,1
+01-foundations,(Hickman et al. 2009),[@hickmanJohnDeweyPragmatism2009],embedded-zotero-field,1
+01-foundations,(Torres Irribarra 2021),[@torresirribarraPragmaticPerspectiveMeasurement2021],embedded-zotero-field,1
+01-foundations,(Canales 2015),[@canalesPhysicistPhilosopherEinstein2015],embedded-zotero-field,1
+01-foundations,(Pârvulescu 2020),[@parvulescuRoyBhaskarsCore2020],embedded-zotero-field,1
+01-foundations,(Dennett 1991),[-@dennettRealPatterns1991],embedded-zotero-field,1
+01-foundations,(Hofstadter 2008; Nenu 2022),[@hofstadterAmStrangeLoop2008; @nenuDouglasHofstadtersGodelian2022],embedded-zotero-field,1
+01-foundations,(Betz 2013; John 2015),[@betzDefenceValueFree2013; @johnExampleIPCCDoes2015],embedded-zotero-field,1
+01-foundations,(Michie et al. 2014),[@michieABCBehaviourChange2014],embedded-zotero-field,1
+01-foundations,(Stamenkovic 2022),[@stamenkovicFactsObjectivityScience2022],embedded-zotero-field,1
+01-foundations,(Haslanger 1999),[@haslangerWhatKnowledgeWhat1999],embedded-zotero-field,1
+01-foundations,(Schneider 2015), [-@schneiderCensorsHandMisregulation2015],embedded-zotero-field,1
+01-foundations,(Savolainen et al. 2023),[@savolainenPositionalityItsProblems2023],embedded-zotero-field,1
+01-foundations,(Savolainen et al. 2023),[-@savolainenPositionalityItsProblems2023],embedded-zotero-field,1
+01-foundations,(Jacobson e Mustafa 2019),[@jacobsonSocialIdentityMap2019],embedded-zotero-field,1
+01-foundations,(Santayana 1924),[-@santayanaScepticismAnimalFaith1924],embedded-zotero-field,1
+01-foundations,(Popper 2013),[-@popperRealismAimScience2013],embedded-zotero-field,1
+01-foundations,(Mukumbang 2023), [-@mukumbangRetroductiveTheorizingContribution2023],embedded-zotero-field,1
+01-foundations,(Harlow et al. 1997),[@harlowProblemEpistemologyNot1997],embedded-zotero-field,1
+01-foundations,(Harlow et al. 1997),[@harlowProblemEpistemologyNot1997],embedded-zotero-field,1
+01-foundations,(Mook 1983),[-@mookDefenseExternalInvalidity1983],embedded-zotero-field,1
+01-foundations,(Dubin 1969),[-@dubinTheoryBuilding1978],embedded-zotero-field,1
+01-foundations,(Fry e Smith 1987; Holton e Lowe 2007; Lynham 2002; Scheel et al. 2021),[@fryCongruenceContingencyTheory1987; @holtonGeneralResearchProcess2007; @lynhamQuantitativeResearchTheory2002; @scheelWhyHypothesisTesters2021a],embedded-zotero-field,1
+01-foundations,(DiMaggio 1995),[@dimaggioCommentsWhatTheory1995],embedded-zotero-field,1
+01-foundations,(Chao 1966), [-@chaoModelsLinguisticsModels1966],embedded-zotero-field,1
+01-foundations,(Skau et al. 2025),[@skauDesiderataDefiningConcepts2025],embedded-zotero-field,1
+01-foundations,(Button e Croft 2017; Cardinale 2017; Cobley et al. 2017; Glazier 2017a; Glazier 2017b; Hackfort 2017; Lopez-Felip e Turvey 2017; Rein et al. 2017; Sands 2017; Seifert et al. 2017; Williams e Ward 2017), [@glazierGrandUnifiedTheory2017; @buttonSportsScienceNeeds2017; @cardinaleCommentaryGrandUnified2017; @cobleySolidSwingContact2017; @hackfortCommentaryGrandUnified2017; @lopez-felipDesideratumGUTFunctional2017; @reinMaybeTadEarly2017; @sandsMosaicConflationModel2017; @seifertUnderstandingConstraintsSport2017; @williamsSearchingHolyGrail2017; @glazierGrandUnifiedTheory2017a],embedded-zotero-field,1
+01-foundations,(Gergen 1976),[@gergenSocialPsychologyHistory1976],embedded-zotero-field,1
+01-foundations,(Steele et al. 2023a),[@steeleMythPeriodisation2023],embedded-zotero-field,1
+01-foundations,(Hayek 1999),[@hayekTheoryComplexPhenomena1999],embedded-zotero-field,1
+01-foundations,(Meehl 1990),[-@meehlAppraisingAmendingTheories1990],embedded-zotero-field,1
+01-foundations,(Murphy et al. 1998),[-@murphyQualitativeResearchMethods1998],embedded-zotero-field,1
+01-foundations,(Chang 2008),[@changInventingTemperatureMeasurement2008],embedded-zotero-field,1
+01-foundations,(Stevens 1946),[@stevensTheoryScalesMeasurement1946],embedded-zotero-field,1
+01-foundations,(Michell 1997),[-@michellQuantitativeScienceDefinition1997],embedded-zotero-field,1
+01-foundations,(Lord 1953),[@lordStatisticalTreatmentFootball1953],embedded-zotero-field,1
+01-foundations,(Steele 2023),[@steeleCanWeMeasure2023],embedded-zotero-field,1
+01-foundations,(Steele et al. 2023b),[@steelePerceptionsCapacityFatigue2023a],embedded-zotero-field,1
+01-foundations,(Smith 2018),[-@smithGeneralizabilityQualitativeResearch2018],embedded-zotero-field,1
+01-foundations,(Eriksen et al. 2008),[@eriksenHowFastCould2009],embedded-zotero-field,1
+01-foundations,(Steele 2020),[@steeleWhatPerceptionEffort2020],embedded-zotero-field,1
+01-foundations,(Symonds e Gorard 2010), [@symondsDeathMixedMethods2010],embedded-zotero-field,1
+01-foundations,(Creswell e Clark 2017),[@creswellDesigningConductingMixed2007],embedded-zotero-field,1
+03-participants,(Gartlehner et al. 2006; Godwin et al. 2003; MacRae 1989),[@godwinPragmaticControlledClinical2003; @gartlehnerCriteriaDistinguishingEffectiveness2006; @macraePragmaticExplanatoryTrials1989],embedded-zotero-field,1
+03-participants,(Godwin et al. 2003),[@godwinPragmaticControlledClinical2003],embedded-zotero-field,1
+03-participants,(Rothman et al. 2013),[@rothmanWhyRepresentativenessShould2013],embedded-zotero-field,1
+03-participants,(Costello et al. 2014; Walton et al. 2024),[@costelloWhereAreAll2014; @waltonEvidenceGenderImbalance2024],embedded-zotero-field,1
+03-participants,(Elliott-Sale et al. 2021),[@elliott-saleMethodologicalConsiderationsStudies2021],embedded-zotero-field,1
+03-participants,(Brach et al. 2023),[@brachEvidencebasedStillChallenging2023],embedded-zotero-field,1
+03-participants,(Bayer e Tadd 2000; Godlovitch 2003),[@bayerUnjustifiedExclusionElderly2000; @godlovitchAgeDiscriminationTrials2003],embedded-zotero-field,1
+03-participants,(Witham e McMurdo 2007),[@withamHowGetOlder2007],embedded-zotero-field,1
+03-participants,(NATIONAL COMMISSION FOR THE PROTECTION OF HUMAN SUBJECTS OF BIOMEDICAL AND BEHAVIORAL RESEARCH 1979),[@nationalcommissionfortheprotectionofhumansubjectsofbiomedicalandbehavioralresearchBelmontReportEthical1979],embedded-zotero-field,1
+03-participants,(McCrum et al. 2022; McKay et al. 2023; Schulz et al. 2022),[@mccrumSampleSizeJustifications2022; @schulzReportingTransparentResearch2022; @mckayLowPrevalencePriori2023],embedded-zotero-field,1
+03-participants,(Lakens 2022a),[@lakensSampleSizeJustification2022],embedded-zotero-field,1
+03-participants,(Lakens 2022b),[@lakensImprovingYourStatistical2022],embedded-zotero-field,1
+03-participants,(Abt et al. 2020),[@abtPowerPrecisionSample2020],embedded-zotero-field,1
+03-participants,(Robinson et al. 2021),[@robinsonSampleSizeEstimation2021],embedded-zotero-field,1
+03-participants,(Twomey et al. 2021),[@twomeyNatureOurLiterature2021],embedded-zotero-field,1
+03-participants,(McCrum et al. 2022),[@mccrumSampleSizeJustifications2022],embedded-zotero-field,1
+03-participants,(Borg et al. 2022),[@borgCalculatingSampleSize2022],embedded-zotero-field,1
+03-participants,(Schulz et al. 2022),[@schulzReportingTransparentResearch2022],embedded-zotero-field,1
+03-participants,(McKay et al. 2023),[@mckayLowPrevalencePriori2023],embedded-zotero-field,1
+03-participants,(Preobrazenski et al. 2024),[@preobrazenskiRiskBiasExercise2024],embedded-zotero-field,1
+03-participants,(Cohen 1988),[@cohenStatisticalPowerAnalysis1988],embedded-zotero-field,1
+03-participants,(Hecksteden et al. 2022),[@heckstedenDealingSmallSamples2022],embedded-zotero-field,1
+03-participants,(Cohen 1988; Hopkins et al. 2009),[@cohenStatisticalPowerAnalysis1988; @hopkinsProgressiveStatisticsStudies2009],embedded-zotero-field,1
+03-participants,(Caldwell e Cheuvront 2019; Hedges 2008; Lakens 2022b; Mesquida et al. 2022; Mesquida e Lakens 2024),[@lakensImprovingYourStatistical2022; @caldwellBasicStatisticalConsiderations2019; @hedgesWhatAreEffect2008; @mesquidaReplicationConcernsSports2022; @mesquidaEffectLargeEnough2024],embedded-zotero-field,1
+03-participants,(Datson et al. 2022; Hopkins et al. 1999; Rhea 2004; Swinton et al. 2023; Thomas et al. 1997),[@datsonIntermethodologicalQuantificationTarget2022; @hopkinsDesignAnalysisResearch1999; @rheaDeterminingMagnitudeTreatment2004; @swintonWhatAreSmall2023; @thomasPlanningSignificantMeaningful1997],embedded-zotero-field,1
+03-participants,(Lakens 2022b; Mesquida e Lakens 2024),[@lakensImprovingYourStatistical2022; @mesquidaEffectLargeEnough2024],embedded-zotero-field,1
+03-participants,(Hedges 2008),[@hedgesWhatAreEffect2008],embedded-zotero-field,1
+03-participants,(Schuch et al. 2016),[@schuchExerciseTreatmentDepression2016],embedded-zotero-field,1
+03-participants,(Caldwell e Vigotsky 2020; Cumming 2012; Hedges 2008; Lakens 2013),[@hedgesWhatAreEffect2008; @caldwellCaseDefaultEffect2020; @cummingUnderstandingNewStatistics2012; @lakensCalculatingReportingEffect2013],embedded-zotero-field,1
+03-participants,(Lakens 2022b; Lakens 2022a),[@lakensSampleSizeJustification2022; @lakensImprovingYourStatistical2022],embedded-zotero-field,1
+03-participants,(Bader et al. 2018),[@baderNewApproachSample2018],embedded-zotero-field,1
+03-participants,(Lakens 2022b),[@lakensImprovingYourStatistical2022],embedded-zotero-field,1
+03-participants,(Lakens 2022b),[@lakensImprovingYourStatistical2022],embedded-zotero-field,1
+03-participants,(Liamputtong 2017),[@liamputtongResearchMethodsHealth2017],embedded-zotero-field,1
+03-participants,(Manohar et al. 2018),[-@manoharRecruitmentResearchParticipants2018],embedded-zotero-field,1
+03-participants,(Cooke e Jones 2017),[@cookeRecruitingAdultParticipants2017],embedded-zotero-field,1
+03-participants,(Mitchell et al. 2024),[@mitchellEngagingAthletesResearch2024],embedded-zotero-field,1
+03-participants,(Joseph et al. 2016),[@josephRecruitingParticipantsPilot2016],embedded-zotero-field,1
+03-participants,(Joseph et al. 2016),[@josephRecruitingParticipantsPilot2016],embedded-zotero-field,1
+03-participants,(Joseph et al. 2016),[@josephRecruitingParticipantsPilot2016],embedded-zotero-field,1
+03-participants,(Joseph et al. 2016),[@josephRecruitingParticipantsPilot2016],embedded-zotero-field,1
+03-participants,(Joseph et al. 2016),[@josephRecruitingParticipantsPilot2016],embedded-zotero-field,1
+03-participants,(Joseph et al. 2016),[@josephRecruitingParticipantsPilot2016],embedded-zotero-field,1
+03-participants,(Joseph et al. 2016),[@josephRecruitingParticipantsPilot2016],embedded-zotero-field,1
+03-participants,(Joseph et al. 2016),[-@josephRecruitingParticipantsPilot2016],embedded-zotero-field,1
+03-participants,(Joseph et al. 2016),[@josephRecruitingParticipantsPilot2016],embedded-zotero-field,1
+03-participants,(Augustine et al. 2016),[@augustineCommunicatingParticipantsConduct2016],embedded-zotero-field,1
+03-participants,(Health 2016),[@healthGuidingPrinciplesEthical2016],embedded-zotero-field,1
+03-participants,(Shalowitz e Miller 2008),[@shalowitzCommunicatingResultsClinical2008],embedded-zotero-field,1
+03-participants,(Long et al. 2016),[@longHealthResearchParticipants2016],embedded-zotero-field,1
+03-participants,(Long et al. 2017),[@longHealthResearchParticipants2017],embedded-zotero-field,1
+03-participants,(Long et al. 2017),[@longHealthResearchParticipants2017],embedded-zotero-field,1
+03-participants,(Hammond e Cooper 2011),[@hammondParticipantInformationClips2011],embedded-zotero-field,1
+03-participants,"(U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES, OFFICE FOR HUMAN RESEARCH PROTECTIONS 2018)",[@u.s.departmentofhealthandhumanservicesofficeforhumanresearchprotectionsFederalPolicyProtection2018],embedded-zotero-field,1
+03-participants,(WMA 2024),[@wmaDeclarationHelsinkiEthical2024],embedded-zotero-field,1
+03-participants,(Chalmers et al. 1999),[@chalmersPeopleAreParticipants1999],embedded-zotero-field,1
+03-participants,(McCallum et al. 2006),[@mccallumAwarenessKnowledgeUS2006],embedded-zotero-field,1
+03-participants,(Lenza 2004),[@lenzaControversiesSurroundingLaud2004],embedded-zotero-field,1
+03-participants,(Krugman 1986),[@krugmanWillowbrookHepatitisStudies1986],embedded-zotero-field,1
+03-participants,(WMA 2024),[@wmaDeclarationHelsinkiEthical2024],embedded-zotero-field,1
+03-participants,(NATIONAL COMMISSION FOR THE PROTECTION OF HUMAN SUBJECTS OF BIOMEDICAL AND BEHAVIORAL RESEARCH 1979),[@nationalcommissionfortheprotectionofhumansubjectsofbiomedicalandbehavioralresearchBelmontReportEthical1979],embedded-zotero-field,1
+03-participants,(NATIONAL COMMISSION FOR THE PROTECTION OF HUMAN SUBJECTS OF BIOMEDICAL AND BEHAVIORAL RESEARCH 1979),[@nationalcommissionfortheprotectionofhumansubjectsofbiomedicalandbehavioralresearchBelmontReportEthical1979],embedded-zotero-field,1
+03-participants,(Health 2016),[@healthGuidingPrinciplesEthical2016],embedded-zotero-field,1
+03-participants,(Mesquida et al. 2022; Twomey et al. 2021),[@twomeyNatureOurLiterature2021; @mesquidaReplicationConcernsSports2022],embedded-zotero-field,1
+03-participants,(Backhouse et al. 2007),[@backhouseInfluenceWaterIngestion2007],embedded-zotero-field,1
+03-participants,(Gordon 2020),[@gordonVulnerabilityResearchBasic2020],embedded-zotero-field,1
+03-participants,(Gyure et al. 2014),[-@gyurePracticalConsiderationsImplementing2014],embedded-zotero-field,1
+04-quantitative-data-collection,(Mesquida et al. 2022),[@mesquidaReplicationConcernsSports2022],embedded-zotero-field,1
+04-quantitative-data-collection,(Betts et al. 2020),[@bettsPRESENT2020Text2020],embedded-zotero-field,1
+04-quantitative-data-collection,(Harriss et al. 2022),[@harrissEthicalStandardsSport2022],embedded-zotero-field,1
+04-quantitative-data-collection,(UKRI 2023),[@ukriResearchPotentiallyVulnerable2023],embedded-zotero-field,1
+04-quantitative-data-collection,(Harriss et al. 2022),[-@harrissEthicalStandardsSport2022],embedded-zotero-field,1
+04-quantitative-data-collection,(Andrade 2018; Halperin et al. 2015),[@andradeInternalExternalEcological2018; @halperinThreatsInternalValidity2015],embedded-zotero-field,1
+04-quantitative-data-collection,(Andrade 2018),[@andradeInternalExternalEcological2018],embedded-zotero-field,1
+04-quantitative-data-collection,(Nichols e Maner 2008),[@nicholsGoodSubjectEffectInvestigating2008],embedded-zotero-field,1
+04-quantitative-data-collection,(Halperin et al. 2018),[@halperinStrengtheningPracticeExercise2018],embedded-zotero-field,1
+04-quantitative-data-collection,(L�ger e Lambert 1982; Paliczka et al. 1987; Ramsbottom et al. 1988),[@lgerMaximalMultistage20m1982; @paliczkaMultistageShuttleRun1987; @ramsbottomProgressiveShuttleRun1988],embedded-zotero-field,1
+04-quantitative-data-collection,(Bonaventura et al. 2015),[@bonaventuraReliabilityAccuracySix2015],embedded-zotero-field,1
+04-quantitative-data-collection,(Tanner et al. 2010),[@tannerEvaluationThreePortable2010],embedded-zotero-field,1
+04-quantitative-data-collection,(Halperin et al. 2018),[@halperinStrengtheningPracticeExercise2018],embedded-zotero-field,1
+04-quantitative-data-collection,(Abt et al. 2020),[@abtPowerPrecisionSample2020],embedded-zotero-field,1
+04-quantitative-data-collection,(Matsumura et al. 2022),[@matsumuraAcuteEffectCaffeine2022],embedded-zotero-field,1
+04-quantitative-data-collection,(Souza et al. 2022),[@souzaHopingBestPrepared2022],embedded-zotero-field,1
+04-quantitative-data-collection,(Bennett et al. 2021),[@bennettThreeWeeksHomebased2021],embedded-zotero-field,1
+04-quantitative-data-collection,(Abt et al. 2020),[@abtPowerPrecisionSample2020],embedded-zotero-field,1
+04-quantitative-data-collection,(Matta et al. 2022),[@mattaReproducibility20minTimetrial2022],embedded-zotero-field,1
+04-quantitative-data-collection,(Matta et al. 2022),[@mattaReproducibility20minTimetrial2022],embedded-zotero-field,1
+04-quantitative-data-collection,(Maunder et al. 2022),[@maunderThreeminuteAlloutTest2022],embedded-zotero-field,1
+04-quantitative-data-collection,(Schulz e Grimes 2002),[@schulzGenerationAllocationSequences2002],embedded-zotero-field,1
+04-quantitative-data-collection,(Schulz e Grimes 2002),[@schulzGenerationAllocationSequences2002],embedded-zotero-field,1
+04-quantitative-data-collection,(Kang et al. 2008),[@kangIssuesOutcomesResearch2008],embedded-zotero-field,1
+04-quantitative-data-collection,(Støren et al. 2017),[@storenEffectAgeV.O2max2017],embedded-zotero-field,1
+04-quantitative-data-collection,(Schulz e Grimes 2002),[@schulzGenerationAllocationSequences2002],embedded-zotero-field,1
+04-quantitative-data-collection,(Kang et al. 2008; Suresh 2011),[@kangIssuesOutcomesResearch2008; @sureshOverviewRandomizationTechniques2011],embedded-zotero-field,1
+04-quantitative-data-collection,(Saunders et al. 2017a),[@saundersPlaceboSportsNutrition2017],embedded-zotero-field,1
+04-quantitative-data-collection,(Hurst et al. 2020),[@hurstNoDifferencesBeetroot2020],embedded-zotero-field,1
+04-quantitative-data-collection,(McNaughton 1992; Saunders et al. 2014),[@mcnaughtonBicarbonateIngestionEffects1992; @saundersSodiumBicarbonateHighIntensityCycling2014],embedded-zotero-field,1
+04-quantitative-data-collection,(Bang et al. 2004),[@bangAssessmentBlindingClinical2004],embedded-zotero-field,1
+04-quantitative-data-collection,(Bang et al. 2010),[@bangBlindingAssessmentClinical2010],embedded-zotero-field,1
+04-quantitative-data-collection,(Gurton et al. 2022),[@gurtonEfficacySodiumBicarbonate2022],embedded-zotero-field,1
+04-quantitative-data-collection,(Grgic et al. 2020a),[@grgicWakeSmellCoffee2020a],embedded-zotero-field,1
+04-quantitative-data-collection,(Hurst et al. 2020),[@hurstNoDifferencesBeetroot2020],embedded-zotero-field,1
+04-quantitative-data-collection,(Gilchrist et al. 2014),[@gilchristDietaryNitrateSupplementation2014],embedded-zotero-field,1
+04-quantitative-data-collection,(Winchester et al. 2012),[-@winchesterObserverEffectsRating2012],embedded-zotero-field,1
+04-quantitative-data-collection,(Vandermeij et al. 2008),[@vandermeijPresenceWomanIncreases2008],embedded-zotero-field,1
+04-quantitative-data-collection,(Halperin et al. 2015), [@halperinThreatsInternalValidity2015],embedded-zotero-field,1
+04-quantitative-data-collection,(Guerin 1986),[@guerinMerePresenceEffects1986],embedded-zotero-field,1
+04-quantitative-data-collection,(Guerin 1986),[-@guerinMerePresenceEffects1986],embedded-zotero-field,1
+04-quantitative-data-collection,(Strauss 2002),[@straussSocialFacilitationMotor2002],embedded-zotero-field,1
+04-quantitative-data-collection,(Midgley et al. 2018),[@midgleyCallActionEvidencebased2018],embedded-zotero-field,1
+04-quantitative-data-collection,(Midgley et al. 2018),[@midgleyCallActionEvidencebased2018],embedded-zotero-field,1
+04-quantitative-data-collection,(Andreacci et al. 2002),[-@andreacciEffectsFrequencyEncouragement2002],embedded-zotero-field,1
+04-quantitative-data-collection,(Weakley et al. 2020),[-@weakleyShowMeTell2020],embedded-zotero-field,1
+04-quantitative-data-collection,(Binboğa et al. 2013),[-@binbogaEffectsVerbalEncouragement2013],embedded-zotero-field,1
+04-quantitative-data-collection,(Weakley et al. 2020),[-@weakleyShowMeTell2020],embedded-zotero-field,1
+04-quantitative-data-collection,(Binboğa et al. 2013),[-@binbogaEffectsVerbalEncouragement2013],embedded-zotero-field,1
+04-quantitative-data-collection,(Halperin et al. 2020),[@halperinEffectsPositiveNegative2020],embedded-zotero-field,1
+04-quantitative-data-collection,(Halperin et al. 2020),[@halperinEffectsPositiveNegative2020],embedded-zotero-field,1
+04-quantitative-data-collection,(Gough et al. 2019b; Gough et al. 2018),[@goughPostexerciseSupplementationSodium2019; @goughSodiumBicarbonateImproves2018],embedded-zotero-field,1
+04-quantitative-data-collection,(Stevens e Dascombe 2015),[@stevensReliabilityValidityProtocols2015],embedded-zotero-field,1
+04-quantitative-data-collection,(Stein et al. 2020a; Stein et al. 2020b),[@steinRETRACTEDSteinEffects2020; @steinAcuteCaffeineSupplementation2020],embedded-zotero-field,1
+04-quantitative-data-collection,(Saunders et al. 2017a),[@saundersPlaceboSportsNutrition2017],embedded-zotero-field,1
+04-quantitative-data-collection,(Grgic et al. 2019),[@grgicEffectsTimeDayspecific2019],embedded-zotero-field,1
+04-quantitative-data-collection,(Küüsmaa et al. 2016),[@kuusmaaEffectsMorningEvening2016],embedded-zotero-field,1
+04-quantitative-data-collection,(Saunders et al. 2017a),[@saundersPlaceboSportsNutrition2017],embedded-zotero-field,1
+04-quantitative-data-collection,(Willett 1994),[@willettDietHealthWhat1994],embedded-zotero-field,1
+04-quantitative-data-collection,(Burke e Hawley 2018),[@burkeSwifterHigherStronger2018],embedded-zotero-field,1
+04-quantitative-data-collection,(Shim et al. 2014; Thompson e Subar 2017),[@shimDietaryAssessmentMethods2014; @thompsonDietaryAssessmentMethodology2017],embedded-zotero-field,1
+04-quantitative-data-collection,(Stables et al. 2021),[@stablesAssessmentValidityRemote2021],embedded-zotero-field,1
+04-quantitative-data-collection,(Shirreffs e Maughan 2006),[@shirreffsEffectAlcoholAthletic2006],embedded-zotero-field,1
+04-quantitative-data-collection,(Guest et al. 2021),[@guestInternationalSocietySports2021],embedded-zotero-field,1
+04-quantitative-data-collection,(Desbrow et al. 2012; Desbrow et al. 2007; McCusker et al. 2003),[@desbrowExaminationConsumerExposure2012; @desbrowExaminationConsumerExposure2007; @mccuskerCaffeineContentSpecialty2003],embedded-zotero-field,1
+04-quantitative-data-collection,(Bergström et al. 1967; Jensen et al. 2020),[@bergstromDietMuscleGlycogen1967; @jensenHeterogeneitySubcellularMuscle2020],embedded-zotero-field,1
+04-quantitative-data-collection,(Korkia et al. 1994),[@korkiaEpidemiologicalInvestigationTraining1994],embedded-zotero-field,1
+04-quantitative-data-collection,(Swinton et al. 2018),[@swintonStatisticalFrameworkInterpret2018],embedded-zotero-field,1
+04-quantitative-data-collection,(Gough et al. 2019a; Gough et al. 2018),[@goughEffectsSodiumBicarbonate2019; @goughSodiumBicarbonateImproves2018],embedded-zotero-field,1
+04-quantitative-data-collection,(Solli et al. 2019),[@solliBlockVsTraditional2019],embedded-zotero-field,1
+04-quantitative-data-collection,(Gough et al. 2019a; Gough et al. 2018),[@goughEffectsSodiumBicarbonate2019; @goughSodiumBicarbonateImproves2018],embedded-zotero-field,1
+04-quantitative-data-collection,(Siegler et al. 2012; Stanley et al. 2013),[@sieglerSodiumBicarbonateSupplementation2012; @stanleyCardiacParasympatheticReactivation2013],embedded-zotero-field,1
+04-quantitative-data-collection,(2007),[@bacchieriExperimentalDesignFallacy2007],embedded-zotero-field,1
+04-quantitative-data-collection,(Chiou et al. 2011),[@chiouIronicEffectsDietary2011],embedded-zotero-field,1
+04-quantitative-data-collection,(Rampinini et al. 2015),[@rampininiAccuracyGPSDevices2015],embedded-zotero-field,1
+04-quantitative-data-collection,(Pirotta et al. 2019),[@pirottaStrategiesReduceAttrition2019],embedded-zotero-field,1
+04-quantitative-data-collection,(Barry 2005),[@barryHowAttritionImpacts2005],embedded-zotero-field,1
+04-quantitative-data-collection,(Gupta 2011),[@guptaIntentiontotreatConceptReview2011],embedded-zotero-field,1
+04-quantitative-data-collection,(Pirotta et al. 2019),[@pirottaStrategiesReduceAttrition2019],embedded-zotero-field,1
+04-quantitative-data-collection,(Perim et al. 2022),[@perimBetaalanineDidNot2022],embedded-zotero-field,1
+04-quantitative-data-collection,(Matsumura et al. 2022),[@matsumuraAcuteEffectCaffeine2022],embedded-zotero-field,1
+04-quantitative-data-collection,(Krustrup et al. 2003),[@krustrupYoYoIntermittentRecovery2003],embedded-zotero-field,1
+04-quantitative-data-collection,(Currell e Jeukendrup 2008),[@currellValidityReliabilitySensitivity2008],embedded-zotero-field,1
+04-quantitative-data-collection,(Krustrup et al. 2006; Krustrup et al. 2003),[@krustrupYoYoIR2Test2006; @krustrupYoYoIntermittentRecovery2003],embedded-zotero-field,1
+04-quantitative-data-collection,(Saunders et al. 2012),[-@saundersValanineSupplementationImproves2012],embedded-zotero-field,1
+04-quantitative-data-collection,(Hill et al. 2007),[-@hillInfluenceValanineSupplementation2007],embedded-zotero-field,1
+04-quantitative-data-collection,(McKay et al. 2022),[@mckayDefiningTrainingPerformance2022],embedded-zotero-field,1
+04-quantitative-data-collection,(Foster et al. 1993),[@fosterPhysiologicalResponsesSimulated1993],embedded-zotero-field,1
+04-quantitative-data-collection,(Bar-Or 1987; Dotan e Inbar 1977),[@bar-orWingateAnaerobicTest1987a; @dotan30secAlloutErgometric1977],embedded-zotero-field,1
+04-quantitative-data-collection,(Saunders et al. 2017b),[@saundersTwentyfourWeeksVAlanine2017],embedded-zotero-field,1
+04-quantitative-data-collection,(Hill et al. 2007),[-@hillInfluenceValanineSupplementation2007],embedded-zotero-field,1
+04-quantitative-data-collection,(Carr et al. 2011; Hobson et al. 2012),[@carrEffectsAcuteAlkalosis2011; @hobsonEffectsValanineSupplementation2012],embedded-zotero-field,1
+04-quantitative-data-collection,(Currell e Jeukendrup 2008; Hopkins 2000; Swinton et al. 2018),[@currellValidityReliabilitySensitivity2008; @hopkinsMeasuresReliabilitySports2000; @swintonStatisticalFrameworkInterpret2018],embedded-zotero-field,1
+04-quantitative-data-collection,(Currell e Jeukendrup 2008),[@currellValidityReliabilitySensitivity2008],embedded-zotero-field,1
+04-quantitative-data-collection,(Currell e Jeukendrup 2008; Jeukendrup et al. 1996),[@currellValidityReliabilitySensitivity2008; @jeukendrupNewValidatedEndurance1996],embedded-zotero-field,1
+04-quantitative-data-collection,(Higgins et al. 2014; Saunders et al. 2013),[@higginsFamiliarisationReproducibilityCycling2014; @saundersReliabilityHighintensityCycling2013],embedded-zotero-field,1
+04-quantitative-data-collection,(Currell e Jeukendrup 2008; Jeukendrup et al. 1996),[@currellValidityReliabilitySensitivity2008; @jeukendrupNewValidatedEndurance1996],embedded-zotero-field,1
+04-quantitative-data-collection,(Benton et al. 2013),[@bentonEffectTrainingStatus2013],embedded-zotero-field,1
+04-quantitative-data-collection,(Jeukendrup et al. 1996),[-@jeukendrupNewValidatedEndurance1996],embedded-zotero-field,1
+04-quantitative-data-collection,(de Oliveira et al. 2017),[@deoliveiraComprehensiveReliabilityAnalysis2017],embedded-zotero-field,1
+04-quantitative-data-collection,(Feliu et al. 1999),[@feliuDifferencesLactateConcentration1999],embedded-zotero-field,1
+04-quantitative-data-collection,(Lima-Oliveira et al. 2017; Lippi et al. 2015),[@lima-oliveiraPatientPostureBlood2017; @lippiPosturalChangeVenous2015],embedded-zotero-field,1
+04-quantitative-data-collection,(Chen et al. 2018),[@chenVenousBloodProvides2018],embedded-zotero-field,1
+04-quantitative-data-collection,(Ayaz et al. 2021; Kelly et al. 2004),[@ayazCorrelationArterialVenous2021; @kellyAgreementBicarbonateMeasured2004],embedded-zotero-field,1
+05-quantitative-analysis,(Wasserstein e Lazar 2016),[@wassersteinASAStatementValues2016],embedded-zotero-field,1
+05-quantitative-analysis,(Greenland et al. 2016),[@greenlandStatisticalTestsValues2016],embedded-zotero-field,1
+05-quantitative-analysis,(Huberty 1993),[@hubertyHistoricalOriginsStatistical1993],embedded-zotero-field,1
+05-quantitative-analysis,(Jaynes 2003),[@jaynesProbabilityTheoryLogic2003],embedded-zotero-field,1
+05-quantitative-analysis,(Bayes 1763),[@bayesLIIEssaySolving1763],embedded-zotero-field,1
+05-quantitative-analysis,(Cullen et al. 2019),[@cullenEffectsSingleNight2019],embedded-zotero-field,1
+05-quantitative-analysis,(JASP 2024),[@jaspJASP2024],embedded-zotero-field,1
+05-quantitative-analysis,(Kruschke 2015),[@kruschkeDoingBayesianData2015],embedded-zotero-field,1
+05-quantitative-analysis,(Pearl e Mackenzie 2018),[@pearlBookWhyNew2018],embedded-zotero-field,1
+05-quantitative-analysis,(Greenland et al. 2016),[@greenlandStatisticalTestsValues2016],embedded-zotero-field,1
+05-quantitative-analysis,(Angra e Gardner 2016),[@angraDevelopmentFrameworkGraph2016],embedded-zotero-field,1
+06-interviewing,(Brinkmann 2020),[@brinkmannUnstructuredSemistructuredInterviewing2020],embedded-zotero-field,1
+06-interviewing,"(Miller, Tina et al. 2012)",[@millertinaEthicsQualitativeResearch2012],embedded-zotero-field,1
+06-interviewing,(Matthews 2025),[@matthewsDoingGoodSocial2025],embedded-zotero-field,1
+06-interviewing,(Gadamer 1989),[-@gadamerTruthMethod1989],embedded-zotero-field,1
+06-interviewing,(Gadamer 1989),[@gadamerTruthMethod1989],embedded-zotero-field,1
+06-interviewing,(Schutz 1972),[@schutzPhenomenologySocialWorld1972],embedded-zotero-field,1
+06-interviewing,(Woodward 2019),[@woodwardMaterialMethodsResearching2019],embedded-zotero-field,1
+06-interviewing,(Matthews 2020; Matthews 2018; Matthews 2016),[@matthewsNotBecomingInvolveddetachment2018; @matthewsTyrannyMalePreserve2016; @matthewsFogSoonClears2020],embedded-zotero-field,1
+06-interviewing,(Matthews e Maguire 2019),[@matthewsSportsViolenceSociety2019],embedded-zotero-field,1
+06-interviewing,(Randall e Phoenix 2009),[@randallProblemTruthQualitative2009],embedded-zotero-field,1
+06-interviewing,(Matthews 2025),[@matthewsDoingGoodSocial2025],embedded-zotero-field,1
+06-interviewing,(Monforte e Smith 2023),[@monforteNarrativeAnalysis2023],embedded-zotero-field,1
+06-interviewing,(Smith e Sparkes 2005),[@smithMenSportSpinal2005],embedded-zotero-field,1
+06-interviewing,(McAdams 1997),[@mcadamsStoriesWeLive1997],embedded-zotero-field,1
+06-interviewing,(Frank 2010),[@frankLettingStoriesBreathe2010],embedded-zotero-field,1
+06-interviewing,(Kvale e Brinkmann 2009),[@kvaleInterViewsLearningCraft2009],embedded-zotero-field,1
+06-interviewing,(Kvale e Brinkmann 2009),[@kvaleInterViewsLearningCraft2009],embedded-zotero-field,1
+06-interviewing,(AlHashmi e Matthews 2022),[@alhashmiAthletesUnderstandingConcussion2022],embedded-zotero-field,1
+06-interviewing,(Bakhtin 1984),[@bakhtinProblemsDostoevskysPoetics1984],embedded-zotero-field,1
+06-interviewing,(Wolcott 1995),[@wolcottArtFieldwork1995],embedded-zotero-field,1
+06-interviewing,(James 1981),[-@jamesPrinciplesPsychology1981],embedded-zotero-field,1
+06-interviewing,(Wolcott 1995),[@wolcottArtFieldwork1995],embedded-zotero-field,1
+06-interviewing,(Wolcott 1995),[@wolcottArtFieldwork1995],embedded-zotero-field,1
+06-interviewing,(Matthews 2025),[@matthewsDoingGoodSocial2025],embedded-zotero-field,1
+06-interviewing,(Taylor 1989),[@taylorSourcesSelfMaking1989],embedded-zotero-field,1
+06-interviewing,(Barnes 1974),[@barnesScientificKnowledgeSociological1974],embedded-zotero-field,1
+06-interviewing,(Malinowski 1922),[-@malinowskiArgonautsWesternPacific1922],embedded-zotero-field,1
+06-interviewing,(Becker 2017),[@beckerEvidence2017],embedded-zotero-field,1
+06-interviewing,(Blumer 1969),[@blumerSymbolicInteractionismPerspective1969],embedded-zotero-field,1
+06-interviewing,(Prus 1996),[-@prusSymbolicInteractionEthnographic1996],embedded-zotero-field,1
+06-interviewing,(Smith 1989),[@smithNatureSocialEducational1989],embedded-zotero-field,1
+06-interviewing,(Atkinson 2003),[@atkinsonKeyThemesQualitative2003],embedded-zotero-field,1
+06-interviewing,(Sprague 2016),[@spragueFeministMethodologiesCritical2016],embedded-zotero-field,1
+06-interviewing,(Harding 1991),[@hardingWhoseScienceWhose1991],embedded-zotero-field,1
+06-interviewing,(Fox e Alldred 2015),[@foxNewMaterialistSocial2015],embedded-zotero-field,1
+06-interviewing,(Wellard 2015),[@wellardResearchingEmbodiedSport2015],embedded-zotero-field,1
+06-interviewing,(Sparkes 2017),[@sparkesSeekingSensesPhysical2017],embedded-zotero-field,1
+06-interviewing,(Sparkes e Smith 2014),[@sparkesQualitativeResearchMethods2013],embedded-zotero-field,1
+06-interviewing,(Burkitt 2008),[@burkittSocialSelvesTheories2008],embedded-zotero-field,1
+06-interviewing,(Carrithers et al. 1985),[@carrithersCategoryPersonAnthropology1985],embedded-zotero-field,1
+06-interviewing,(Matthews 2025),[@matthewsDoingGoodSocial2025],embedded-zotero-field,1
+06-interviewing,(Matthews 2024),[@matthewsKnowingStuffMyths2024],embedded-zotero-field,1
+06-interviewing,(Matthews 2025; Matthews 2015),[@matthewsDoingGoodSocial2025; @matthewsBeingNoseyBody2015],embedded-zotero-field,1
+06-interviewing,(Matthews 2025),[@matthewsDoingGoodSocial2025],embedded-zotero-field,1
+06-interviewing,(Maykut e Morehouse 1994),[@maykutBeginningQualitativeResearch1994],embedded-zotero-field,1
+07-qualitative-analysis,(Creswell 2013; Guba e Lincoln 1994),[@creswellQualitativeInquiryResearch2013; @gubaCompetingParadigmsQualitative1994],embedded-zotero-field,1
+07-qualitative-analysis,(Creswell 2014),[@creswellResearchDesignQualitative2014],embedded-zotero-field,1
+07-qualitative-analysis,(Kuhn 1970),[@kuhnStructureScientificRevolutions2012],embedded-zotero-field,1
+07-qualitative-analysis,(Guba e Lincoln 1994),[@gubaCompetingParadigmsQualitative1994],embedded-zotero-field,1
+07-qualitative-analysis,(Creswell 2014; Guba e Lincoln 1998),[@creswellResearchDesignQualitative2014; @gubaCompetingParadigmsQualitative1994],embedded-zotero-field,1
+07-qualitative-analysis,(Guba e Lincoln 1998),[@gubaCompetingParadigmsQualitative1994],embedded-zotero-field,1
+07-qualitative-analysis,(Bhaskar 1989),[@bhaskarReclaimingRealityCritical1989],embedded-zotero-field,1
+07-qualitative-analysis,(Grix 2004),[-@grixFoundationsResearch2004],embedded-zotero-field,1
+07-qualitative-analysis,(Burr e Dick 2017),[@burrSocialConstructionism2017],embedded-zotero-field,1
+07-qualitative-analysis,(Burr e Dick 2017),[@burrSocialConstructionism2017],embedded-zotero-field,1
+07-qualitative-analysis,(Speer 2005),[@speerGenderTalkFeminism2005],embedded-zotero-field,1
+07-qualitative-analysis,(Burr e Dick 2017),[@burrSocialConstructionism2017],embedded-zotero-field,1
+07-qualitative-analysis,(Burr e Dick 2017),[@burrSocialConstructionism2017],embedded-zotero-field,1
+07-qualitative-analysis,(Frisby et al. 2005),[@frisbyPuttingParticipatoryParticipatory2005],embedded-zotero-field,1
+07-qualitative-analysis,(Braun e Clarke 2019; Trainor e Bundon 2021),[@braunReflectingReflexiveThematic2019; @trainorDevelopingCraftReflexive2021],embedded-zotero-field,1
+07-qualitative-analysis,(Braun e Clarke 2022),[@braunConceptualDesignThinking2022],embedded-zotero-field,1
+07-qualitative-analysis,(Braun e Clarke 2021),[@braunCanUseTA2021],embedded-zotero-field,1
+07-qualitative-analysis,(Trainor et al. 2020),[@trainorRebalancingActInjured2020],embedded-zotero-field,1
+07-qualitative-analysis,(Haslett et al. 2020),[@haslettParaAthleteActivism2020],embedded-zotero-field,1
+07-qualitative-analysis,(Braun e Clarke 2019),[@braunReflectingReflexiveThematic2019],embedded-zotero-field,1
+07-qualitative-analysis,(Braun et al. 2016),[@braunUsingThematicAnalysis2016],embedded-zotero-field,1
+07-qualitative-analysis,(Trainor e Bundon 2021),[@trainorDevelopingCraftReflexive2021],embedded-zotero-field,1
+07-qualitative-analysis,(Braun e Clarke 2013),[@braunSuccessfulQualitativeResearch2013],embedded-zotero-field,1
+07-qualitative-analysis,(Terry et al. 2017),[@terryThematicAnalysis2017],embedded-zotero-field,1
+07-qualitative-analysis,(Braun e Clarke 2019; Trainor e Bundon 2021),[@braunReflectingReflexiveThematic2019; @trainorDevelopingCraftReflexive2021],embedded-zotero-field,1
+07-qualitative-analysis,(Braun et al. 2016),[@braunUsingThematicAnalysis2016],embedded-zotero-field,1
+07-qualitative-analysis,(Clarke e Braun 2017; Trainor e Bundon 2021),[@trainorDevelopingCraftReflexive2021; @clarkeThematicAnalysis2017],embedded-zotero-field,1
+07-qualitative-analysis,(Braun et al. 2022; Byrne 2022; Terry et al. 2017; Trainor e Bundon 2021),[@trainorDevelopingCraftReflexive2021; @braunDoingReflexiveThematic2022; @terryThematicAnalysis2017; @byrneWorkedExampleBraun2022],embedded-zotero-field,1
+07-qualitative-analysis,(Trainor et al. 2023),[-@trainorInescapableTensionsPerformance2023],embedded-zotero-field,1
+07-qualitative-analysis,(Webb et al. 2019),[@webbFitspoEverySize2019],embedded-zotero-field,1
+07-qualitative-analysis,(Braumüller et al. 2020),[@braumullerGenderedCoverageOlympic2020],embedded-zotero-field,1
+07-qualitative-analysis,(Mayring 2000),[@mayringQualitativeContentAnalysis2000],embedded-zotero-field,1
+07-qualitative-analysis,(Hsieh e Shannon 2005),[@hsiehThreeApproachesQualitative2005],embedded-zotero-field,1
+07-qualitative-analysis,(Patton 2002),[@pattonQualitativeResearchEvaluation2002],embedded-zotero-field,1
+07-qualitative-analysis,(Hsieh e Shannon 2005),[@hsiehThreeApproachesQualitative2005],embedded-zotero-field,1
+07-qualitative-analysis,(Hsieh e Shannon 2005),[@hsiehThreeApproachesQualitative2005],embedded-zotero-field,1
+07-qualitative-analysis,(Morse e Field 1995),[@morseQualitativeResearchMethods1995],embedded-zotero-field,1
+07-qualitative-analysis,(Hsieh e Shannon 2005),[@hsiehThreeApproachesQualitative2005],embedded-zotero-field,1
+07-qualitative-analysis,(Rajwani et al. 2022),[-@rajwaniCanadianNationalSport2022],embedded-zotero-field,1
+07-qualitative-analysis,(Riessman 2008; Smith e Sparkes 2009; Sparkes e Smith 2014),[@smithNarrativeAnalysisSport2009; @riessmanNarrativeMethodsHuman2008; @sparkesQualitativeResearchMethods2013],embedded-zotero-field,1
+07-qualitative-analysis,(Smith e Sparkes 2009),[@smithNarrativeAnalysisSport2009],embedded-zotero-field,1
+07-qualitative-analysis,(Sparkes e Smith 2014),[@sparkesQualitativeResearchMethods2013],embedded-zotero-field,1
+07-qualitative-analysis,(Franck e Stambulova 2019),[@franckJuniorSeniorTransition2019],embedded-zotero-field,1
+07-qualitative-analysis,(Caron et al. 2021),[@caronSocialDynamicsInvolved2021],embedded-zotero-field,1
+07-qualitative-analysis,(Sparkes e Smith 2014),[@sparkesQualitativeResearchMethods2013],embedded-zotero-field,1
+07-qualitative-analysis,(Jowett e Frost 2007),[@jowettRaceEthnicityAllmale2007],embedded-zotero-field,1
+07-qualitative-analysis,(Holstein e Gubrium 2004),[@holsteinContextWorkingIt2004],embedded-zotero-field,1
+07-qualitative-analysis,(Smith e Sparkes 2009),[@smithNarrativeAnalysisSport2009],embedded-zotero-field,1
+07-qualitative-analysis,(Sparkes e Smith 2014),[@sparkesQualitativeResearchMethods2013],embedded-zotero-field,1
+07-qualitative-analysis,(Polkinghorne 1995),[@polkinghorneNarrativeConfigurationQualitative1995],embedded-zotero-field,1
+07-qualitative-analysis,(Smith e Sparkes 2009),[@smithNarrativeAnalysisSport2009],embedded-zotero-field,1
+07-qualitative-analysis,(Smith e Sparkes 2009),[@smithNarrativeAnalysisSport2009],embedded-zotero-field,1
+07-qualitative-analysis,(McGannon e McMahon 2019),[@mcgannonUnderstandingFemaleAthlete2019],embedded-zotero-field,1
+07-qualitative-analysis,(Caddick et al. 2015),[-@caddickCollectiveStoriesWellbeing2015],embedded-zotero-field,1
+07-qualitative-analysis,(Caddick et al. 2015),[-@caddickCollectiveStoriesWellbeing2015],embedded-zotero-field,1
+07-qualitative-analysis,(Caddick et al. 2015),[-@caddickCollectiveStoriesWellbeing2015],embedded-zotero-field,1
+07-qualitative-analysis,(Ellis 2004),[@ellisEthnographicMethodologicalNovel2004],embedded-zotero-field,1
+07-qualitative-analysis,(Ellis 2004),[@ellisEthnographicMethodologicalNovel2004],embedded-zotero-field,1
+07-qualitative-analysis,(Smith e Sparkes 2009),[@smithNarrativeAnalysisSport2009],embedded-zotero-field,1
+07-qualitative-analysis,(Smith 2016),[-@smithNarrativeAnalysisSport2016],embedded-zotero-field,1
+07-qualitative-analysis,(Dean 2019),[-@deanJustActNormal2019],embedded-zotero-field,1
+07-qualitative-analysis,(Dean 2019),[-@deanJustActNormal2019],embedded-zotero-field,1
+07-qualitative-analysis,(Smith 2013),[-@smithSportingSpinalCord2013],embedded-zotero-field,1
+07-qualitative-analysis,(Smith 2013),[-@smithSportingSpinalCord2013],embedded-zotero-field,1
+07-qualitative-analysis,(Quarmby et al. 2021),[@quarmbyNarrativesMarginalisedVoices2021],embedded-zotero-field,1
+07-qualitative-analysis,(McGannon e McMahon 2022),[@mcgannonReStoryingEmbodiedRunning2022],embedded-zotero-field,1
+07-qualitative-analysis,(Peacock et al. 2018),[@peacockInclusiveAdaptedSport2018],embedded-zotero-field,1
+07-qualitative-analysis,(Glaser e Strauss 1971),[@glaserStatusPassage1971],embedded-zotero-field,1
+07-qualitative-analysis,(Khan 2014),[@khanQualitativeResearchMethod2014],embedded-zotero-field,1
+07-qualitative-analysis,(Strauss e Corbin 1998),[@straussBasicsQualitativeResearch1998],embedded-zotero-field,1
+07-qualitative-analysis,(Roy-Davis et al. 2017),[@roy-davisGroundedTheorySport2017],embedded-zotero-field,1
+07-qualitative-analysis,(Battaglia et al. 2022),[@battagliaGroundedTheoryInfluences2022],embedded-zotero-field,1
+07-qualitative-analysis,(Charmaz 2006),[@charmazConstructingGroundedTheory2006],embedded-zotero-field,1
+07-qualitative-analysis,(Weed 2009),[@weedResearchQualityConsiderations2009],embedded-zotero-field,1
+07-qualitative-analysis,(Strauss e Corbin 1998),[@straussBasicsQualitativeResearch1998],embedded-zotero-field,1
+07-qualitative-analysis,(Glaser e Strauss 1967),[@glaserDiscoveryGroundedTheory1967],embedded-zotero-field,1
+07-qualitative-analysis,(Glaser 1992),[@glaserBasicsGroundedTheory1992],embedded-zotero-field,1
+07-qualitative-analysis,(Charmaz 2008a; Glaser 1978; Strauss 1987),[@charmazConstructionismGroundedTheory2008; @glaserTheoreticalSensitivityAdvances1978; @straussQualitativeAnalysisSocial1987],embedded-zotero-field,1
+07-qualitative-analysis,(Corbin e Strauss 1990),[@corbinGroundedTheoryResearch1990],embedded-zotero-field,1
+07-qualitative-analysis,(Charmaz 2008a; Glaser 1978),[@charmazConstructionismGroundedTheory2008; @glaserTheoreticalSensitivityAdvances1978],embedded-zotero-field,1
+07-qualitative-analysis,(Corbin e Strauss 1990),[@corbinGroundedTheoryResearch1990],embedded-zotero-field,1
+07-qualitative-analysis,(Charmaz 2006; Corbin e Strauss 1990; Glaser 1978),[@charmazConstructingGroundedTheory2006; @glaserTheoreticalSensitivityAdvances1978; @corbinGroundedTheoryResearch1990],embedded-zotero-field,1
+07-qualitative-analysis,(Glaser 1992),[@glaserBasicsGroundedTheory1992],embedded-zotero-field,1
+07-qualitative-analysis,(Corbin e Strauss 1990),[@corbinGroundedTheoryResearch1990],embedded-zotero-field,1
+07-qualitative-analysis,(Charmaz 2008a),[@charmazConstructionismGroundedTheory2008],embedded-zotero-field,1
+07-qualitative-analysis,(Glaser e Strauss 1967),[@glaserDiscoveryGroundedTheory1967],embedded-zotero-field,1
+07-qualitative-analysis,(Corbin e Strauss 1990),[@corbinGroundedTheoryResearch1990],embedded-zotero-field,1
+07-qualitative-analysis,(Nichol et al. 2021),[-@nicholCoachingShadowsCritically2021],embedded-zotero-field,1
+07-qualitative-analysis,(Charmaz 2006; Charmaz 2000),[@charmazConstructingGroundedTheory2006; @charmazGroundedTheoryObjectivist2000],embedded-zotero-field,1
+07-qualitative-analysis,(Charmaz 2008b),[@charmazGroundedTheoryEmergent2008],embedded-zotero-field,1
+07-qualitative-analysis,(Elliott et al. 2020),[@elliottParentsGirlsAustralian2020],embedded-zotero-field,1
+07-qualitative-analysis,(Elliott et al. 2020),[@elliottParentsGirlsAustralian2020],embedded-zotero-field,1
+07-qualitative-analysis,(Langdridge 2007; Smith et al. 2009; Smith e Osborn 2003),[@langdridgePhenomenologicalPsychologyTheory2007; @smithInterpretativePhenomenologicalAnalysis2009; @smithInterpretativePhenomenologicalAnalysis2003],embedded-zotero-field,1
+07-qualitative-analysis,(Shinebourne 2011),[@shinebourneTheoreticalUnderpinningsInterpretative2011],embedded-zotero-field,1
+07-qualitative-analysis,(Newman et al. 2021),[@newmanConceptualizingBullyingAdult2021],embedded-zotero-field,1
+07-qualitative-analysis,(Hyman et al. 2022),[@hymanSistersSportPsychology2022],embedded-zotero-field,1
+07-qualitative-analysis,(Natanson 1973),[@natansonEdmundHusserlPhilosopher1973],embedded-zotero-field,1
+07-qualitative-analysis,(Drew 1999),[@drewReturnHusserlResearcher1999],embedded-zotero-field,1
+07-qualitative-analysis,(Natanson 1973),[@natansonEdmundHusserlPhilosopher1973],embedded-zotero-field,1
+07-qualitative-analysis,(Allen 1995),[@allenHermeneuticsPhilosophicalTraditions1995],embedded-zotero-field,1
+07-qualitative-analysis,(Lopez e Willis 2004),[@lopezDescriptiveInterpretivePhenomenology2004],embedded-zotero-field,1
+07-qualitative-analysis,(Smith et al. 2009; Smith et al. 1999),[@smithInterpretativePhenomenologicalAnalysis2009; @smithDoingInterpretativePhenomenological1999],embedded-zotero-field,1
+07-qualitative-analysis,(Finlay 2011; Paley 2017),[@finlayPhenomenologyTherapistsResearching2011; @paleyPhenomenologyQualitativeResearch2017],embedded-zotero-field,1
+07-qualitative-analysis,(Spiegelberg 1976),[@spiegelbergPhenomenologicalMovementHistorical1976],embedded-zotero-field,1
+07-qualitative-analysis,(Solomon 1987),[@solomonHegelExistentialism1987],embedded-zotero-field,1
+07-qualitative-analysis,(Heidegger 1962),[@heideggerBeingTime1962],embedded-zotero-field,1
+07-qualitative-analysis,(Morais et al. 2022),[-@moraisTapFollowFitFam2022],embedded-zotero-field,1
+07-qualitative-analysis,(Trainor e Bundon 2021),[@trainorDevelopingCraftReflexive2021],embedded-zotero-field,1
+07-qualitative-analysis,(Berger 2015b; Bradbury‐Jones 2007; Finlay 2002),[@bergerNowSeeIt2015; @bradbury-jonesEnhancingRigourQualitative2007; @finlayNegotiatingSwampOpportunity2002],embedded-zotero-field,1
+07-qualitative-analysis,(Berger 2015b; Pillow 2003),[@bergerNowSeeIt2015; @pillowConfessionCatharsisCure2003],embedded-zotero-field,1
+07-qualitative-analysis,(Howe 2008),[-@howeTailWaggingDog2008],embedded-zotero-field,1
+07-qualitative-analysis,(Meyer e Willis 2018; Olmos-Vega et al. 2023),[@olmos-vegaPracticalGuideReflexivity2023; @meyerLookingBackMove2018],embedded-zotero-field,1
+07-qualitative-analysis,(Trainor e Bundon 2021),[@trainorDevelopingCraftReflexive2021],embedded-zotero-field,1
+07-qualitative-analysis,(Trainor e Bundon 2021),[@trainorDevelopingCraftReflexive2021],embedded-zotero-field,1
+07-qualitative-analysis,(Rogers et al. 2021),[-@rogersPreparingPhysicalActivity2021],embedded-zotero-field,1
+07-qualitative-analysis,(Smith e McGannon 2018),[@smithDevelopingRigorQualitative2018],embedded-zotero-field,1
+07-qualitative-analysis,(Cowan e Taylor 2016),[@cowanImProudWhat2016],embedded-zotero-field,1
+07-qualitative-analysis,(Trainor e Bundon 2021),[@trainorDevelopingCraftReflexive2021],embedded-zotero-field,1
+07-qualitative-analysis,(Caudwell 2015),[@caudwellFeelingBlueOrdinary2015],embedded-zotero-field,1
+07-qualitative-analysis,(Berger 2015b; Finlay 2002; Patnaik 2013; Pillow 2003; Trainor e Bundon 2021; Watt 2007),[@bergerNowSeeIt2015; @finlayNegotiatingSwampOpportunity2002; @patnaikReflexivitySituatingResearcher2013; @pillowConfessionCatharsisCure2003; @trainorDevelopingCraftReflexive2021; @wattBecomingQualitativeResearcher2007],embedded-zotero-field,1
+08-secondary-research,(Fyfe et al. 2022),[@fyfeMinimalDoseResistanceTraining2022],embedded-zotero-field,1
+08-secondary-research,(Newmire e Willoughby 2022),[@newmireSkeletalMuscleMicrobiopsy2022],embedded-zotero-field,1
+08-secondary-research,(Swann et al. 2023),[@swannOveruseSMARTGoals2023],embedded-zotero-field,1
+08-secondary-research,(Shirley et al. 2022),[@shirleyLifeHistoryPerspective2022],embedded-zotero-field,1
+08-secondary-research,(Kraemer et al. 2025),[@kraemerEvolutionResistanceTraining2025],embedded-zotero-field,1
+08-secondary-research,(Ashford et al. 2009),[@ashfordDifferencebasedMetaanalyticProcedures2009],embedded-zotero-field,1
+08-secondary-research,(Saunders et al. 2017c),[@saundersValanineSupplementationImprove2017],embedded-zotero-field,1
+08-secondary-research,(Santos et al. 2025),[@santosActiveCommutingBrazil2025],embedded-zotero-field,1
+08-secondary-research,(Kelly et al. 2018),[@kellyWalkingSunshineScoping2018],embedded-zotero-field,1
+08-secondary-research,(Doherty et al. 2024),[@dohertyKeepingPaceWearables2024],embedded-zotero-field,1
+08-secondary-research,(Grgic et al. 2020b),[@grgicWakeSmellCoffee2020a],embedded-zotero-field,1
+08-secondary-research,(Grant e Booth 2009),[@grantTypologyReviewsAnalysis2009],embedded-zotero-field,1
+08-secondary-research,(Kadlec et al. 2023),[@kadlecGreatPowerComes2023],embedded-zotero-field,1
+08-secondary-research,(Munn et al. 2018),[@munnWhatKindSystematic2018],embedded-zotero-field,1
+08-secondary-research,(Morton et al. 2018),[@mortonSystematicReviewMetaanalysis2018],embedded-zotero-field,1
+08-secondary-research,(Morton et al. 2018),[-@mortonSystematicReviewMetaanalysis2018],embedded-zotero-field,1
+08-secondary-research,(Murad et al. 2017),[@muradRatingCertaintyEvidence2017],embedded-zotero-field,1
+08-secondary-research,(Sterne et al. 2019),[@sterneRoB2Revised2019],embedded-zotero-field,1
+08-secondary-research,(Sterne et al. 2016),[@sterneROBINSIToolAssessing2016],embedded-zotero-field,1
+08-secondary-research,(Page et al. 2021),[@pagePRISMA2020Statement2021],embedded-zotero-field,1
+08-secondary-research,(Pieper e Rombey 2022),[@pieperWhereProspectivelyRegister2022],embedded-zotero-field,1
+08-secondary-research,(Allen e Mehler 2019; Hicks 2023; Ioannidis et al. 2014),[@allenCorrectionOpenScience2019b; @hicksOpenScienceReplication2023; @ioannidisIncreasingValueReducing2014],embedded-zotero-field,1
+08-secondary-research,(Boslaugh 2009),[@boslaughSecondaryDataSources2009],embedded-zotero-field,1
+08-secondary-research,(Kramer et al. 2014),[@kramerExperimentalEvidenceMassivescale2014],embedded-zotero-field,1
+08-secondary-research,(Hernán et al. 2004),[@hernanStructuralApproachSelection2004],embedded-zotero-field,1
+09-writing-and-peer-review,(Lingard 2015),[@lingardJoiningConversationProblem2015],embedded-zotero-field,1
+09-writing-and-peer-review,(Schulz et al. 2010),[@schulzCONSORT2010Statement2010],embedded-zotero-field,1
+09-writing-and-peer-review,(Page et al. 2021),[@pagePRISMA2020Statement2021],embedded-zotero-field,1
+09-writing-and-peer-review,(Betts et al. 2020),[@bettsPRESENT2020Text2020],embedded-zotero-field,1
+09-writing-and-peer-review,(Wroblewski et al. 2011),[@wroblewskiChronicExercisePreserves2011],embedded-zotero-field,1
+09-writing-and-peer-review,(Schulz et al. 2010),[@schulzCONSORT2010Statement2010],embedded-zotero-field,1
+09-writing-and-peer-review,(Weissgerber et al. 2015),[-@weissgerberBarLineGraphs2015],embedded-zotero-field,1
+09-writing-and-peer-review,(Shen e Björk 2015),[@shenPredatoryOpenAccess2015],embedded-zotero-field,1
+09-writing-and-peer-review,(Brainard 2020),[@brainardArticlesPredatoryJournals2020],embedded-zotero-field,1
+01-foundations,(see Massengale e National Association for Physical Education in Higher Education 1997),[see @massengaleHistoryExerciseSport1997],reviewed-manual-citation-or-locator,1
+01-foundations,(see Laudan 1983),[see @laudanDemiseDemarcationProblem1983],reviewed-manual-citation-or-locator,1
+01-foundations,(see Plumer 2017),[see @plumerPresumptionsAssumptionsPresuppositions2017],reviewed-manual-citation-or-locator,1
+01-foundations,"Albert Einstein, Letter to Robert Thornton, 1944","Albert Einstein, Letter to Robert Thornton [-@einsteinLetterRobertThornton1944]",reviewed-manual-citation-or-locator,1
+01-foundations,*Philosophiæ Naturalis Principia Mathematica* (1687),*Philosophiæ Naturalis Principia Mathematica* [-@newtonPhilosophiaeNaturalisPrincipia1687],reviewed-manual-citation-or-locator,1
+02-question-and-design,(Dolan et al. 2026),[@dolanBoneBiomarkerInflammatory2026],reviewed-manual-citation-or-locator,1
+02-question-and-design,taken from: Dolan et al. 2026,taken from: @dolanBoneBiomarkerInflammatory2026,reviewed-manual-citation-or-locator,1
+03-participants,"(Cohen, 1988, p. 4) [@cohenStatisticalPowerAnalysis1988]","[@cohenStatisticalPowerAnalysis1988, p. 4]",reviewed-manual-citation-or-locator,1
+03-participants,(Tenan & Caldwell 2022),[@tenanConfidenceIntervalsSmallest2022],reviewed-manual-citation-or-locator,1
+04-quantitative-data-collection,"(Zajonc, 1965)",[@zajoncSocialFacilitation1965],reviewed-manual-citation-or-locator,1
+04-quantitative-data-collection,Human Tissue Act (2004) (https://www.hta.gov.uk/guidance-professionals/hta-legislation/human-tissue-act-2004),Human Tissue Act [@humanTissueAct2004],reviewed-manual-citation-or-locator,1
+06-interviewing,"(see Matthews, forthcoming, especially Chapters 17 and 19 [@matthewsDoingGoodSocial2025])","[see @matthewsDoingGoodSocial2025, chaps. 17 and 19]",reviewed-manual-citation-or-locator,1
+06-interviewing,"(1989, 383 [@gadamerTruthMethod1989])","[@gadamerTruthMethod1989, p. 383]",reviewed-manual-citation-or-locator,1
+06-interviewing,"(Matthews and Maguire, 2019, 122)* [@matthewsSportsViolenceSociety2019]*)*","[@matthewsSportsViolenceSociety2019, p. 122]*",reviewed-manual-citation-or-locator,1
+06-interviewing,"(2010, 22) [@frankLettingStoriesBreathe2010]","[@frankLettingStoriesBreathe2010, p. 22]",reviewed-manual-citation-or-locator,1
+06-interviewing,"(Wolcott, 1995, 167)* [@wolcottArtFieldwork1995]*","[@wolcottArtFieldwork1995, p. 167]*",reviewed-manual-citation-or-locator,1
+06-interviewing,"(1995, 165 [@wolcottArtFieldwork1995]","[@wolcottArtFieldwork1995, p. 165]",reviewed-manual-citation-or-locator,1
+06-interviewing,Nick Crossley's (1996),Nick Crossley's [-@crossleyIntersubjectivityFabricSocial1996],reviewed-manual-citation-or-locator,1
+06-interviewing,Joey Sprague's (2016) *Feminist Methodologies for Critical Researchers* [@spragueFeministMethodologiesCritical2016],Joey Sprague's [-@spragueFeministMethodologiesCritical2016] *Feminist Methodologies for Critical Researchers*,reviewed-manual-citation-or-locator,1
+06-interviewing,Sandra Harding's (1991) *Whose Science? Whose Knowledge?* [@hardingWhoseScienceWhose1991],Sandra Harding's [-@hardingWhoseScienceWhose1991] *Whose Science? Whose Knowledge?*,reviewed-manual-citation-or-locator,1
+06-interviewing,The Principles of Psychology (2000 \[1890\]),The Principles of Psychology [-@jamesPrinciplesPsychology2000],reviewed-manual-citation-or-locator,1
+07-qualitative-analysis,Braun and Clarke (2022) [@braunConceptualDesignThinking2022],Braun and Clarke [-@braunConceptualDesignThinking2022],reviewed-manual-citation-or-locator,1
+08-secondary-research,"(e.g., Franco et al. 2015)","[e.g., @francoOlderPeoplesPerspectives2015]",reviewed-manual-citation-or-locator,1
+08-secondary-research,Pieper & Rombey (2022),@pieperWhereProspectivelyRegister2022,reviewed-manual-citation-or-locator,1

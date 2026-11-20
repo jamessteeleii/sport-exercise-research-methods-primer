@@ -1,0 +1,16 @@
+{
+  "04-quantitative-data-collection:67": {"key":"deoliveiraComprehensiveReliabilityAnalysis2017","reason":"Publisher PDF confirms the work-based (~420 kJ), recreationally-trained title and complete author list; the old 16 km/well-trained reference describes the same journal, issue and pages incorrectly."},
+  "01-foundations:4": {"key":"allenCorrectionOpenScience2019b","reason":"Correction notice, distinct from the original Allen and Mehler article."},
+  "01-foundations:27": {"key":"bayesLIIEssaySolving1763","reason":"Full title and DOI identify the original Philosophical Transactions article."},
+  "01-foundations:125": {"key":"eriksenHowFastCould2009","reason":"Malformed arXiv reference mixes a different title into the Bolt paper. The linked manuscript citation uses the published article; review the original preprint attribution."},
+  "01-foundations:186": {"key":"hanssonSciencePseudoScience2021","reason":"The reference specifies the dated Fall 2021 Stanford Encyclopedia edition."},
+  "05-quantitative-analysis:2": {"key":"bayesLIIEssaySolving1763","reason":"Same original article as the chapter-one reference."},
+  "06-interviewing:2": {"key":"atkinsonKeyThemesQualitative2003","reason":"The reference abbreviates the book subtitle."},
+  "06-interviewing:15": {"key":"kvaleInterViewsLearningCraft2009","reason":"The reference abbreviates the book subtitle; authors, year and edition agree."},
+  "06-interviewing:21": {"key":"matthewsDoingImmersiveResearch2021","reason":"The reference abbreviates the book subtitle."},
+  "07-qualitative-analysis:11": {"key":"braunSuccessfulQualitativeResearch2013","reason":"Continuation of the preceding reference: publisher location and publisher, not a separate work."},
+  "07-qualitative-analysis:13": {"key":"braunReflectingReflexiveThematic2019","reason":"Continuation of the preceding reference: journal and page range, not a separate work."},
+  "07-qualitative-analysis:41": {"key":"finlayPhenomenologyTherapistsResearching2011","reason":"The manuscript gives psychotherapists; the library title is Phenomenology for Therapists."},
+  "07-qualitative-analysis:91": {"key":"spiegelbergDoingPhenomenology1975","reason":"The manuscript misspells Spiegelberg and gives 1976; catalogue metadata identifies Doing Phenomenology as 1975, distinct from The Phenomenological Movement."},
+  "07-qualitative-analysis:92": {"key":"straussQualitativeAnalysisSocial1987","reason":"The manuscript says Quantitative analysis for social sciences; the identifiable Strauss book is Qualitative analysis for social scientists."}
+}

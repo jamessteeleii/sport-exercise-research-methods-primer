@@ -1,0 +1,33 @@
+# Generated renders, caches and machine state
+/_book/
+/index.typ
+/index.html
+/chapters/*.html
+/frontmatter/*.html
+/backmatter/*.html
+/site_libs/
+/_review/
+/_submission/
+/.quarto/
+/_freeze/
+/work/
+/.cache/
+/outputs/
+# Immutable source draft remains local; identity is recorded in config/source-manifest.json.
+/Full-Book_241026.docx
+/Full-Book_241026 - For review.docx
+/draft.json
+/editorial/private/
+.Rproj.user/
+.Rhistory
+.RData
+.Renviron
+.env
+~$*
+*.log
+__pycache__/
+*.py[cod]
+
+**/*.quarto_ipynb
+# Author revision: retained privately as editorial provenance.
+/Chapter One - Foundations of Scientific Research in the Sport and Exercise Sciences - v2.1.docx

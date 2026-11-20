@@ -1,0 +1,24 @@
+name: Validate book manually
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  html-and-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: '1.9.38'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/sync_metadata.py
+      - run: python scripts/validate.py
+      - run: quarto render --to all
+      - uses: actions/upload-artifact@v4
+        with:
+          name: draft-book
+          path: _book
+          retention-days: 7

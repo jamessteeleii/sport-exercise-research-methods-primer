@@ -1,0 +1,243 @@
+[
+  {
+    "id": "dolanBoneBiomarkerInflammatory2026",
+    "type": "article-journal",
+    "DOI": "10.1007/s00421-026-06461-w",
+    "title": "Bone biomarker and inflammatory cytokine responses to short-term low energy availability with and without preserved protein intake: a randomized, controlled, multi-period, cross-over trial",
+    "author": [
+      {
+        "given": "Eimear",
+        "family": "Dolan"
+      },
+      {
+        "given": "Rafaela Silverio",
+        "family": "Pinto"
+      },
+      {
+        "given": "Bruna Aguera",
+        "family": "Reina"
+      },
+      {
+        "given": "Gabriel Perri",
+        "family": "Esteves"
+      },
+      {
+        "given": "Viviane Christine Araujo",
+        "family": "Miranda"
+      },
+      {
+        "given": "Hamilton",
+        "family": "Roschel"
+      },
+      {
+        "given": "Bruno",
+        "family": "Gualano"
+      },
+      {
+        "given": "Craig",
+        "family": "Sale"
+      },
+      {
+        "given": "Paul",
+        "family": "Swinton"
+      }
+    ],
+    "container-title": "European Journal of Applied Physiology",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          10
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.1007/s00421-026-06461-w"
+  },
+  {
+    "id": "francoOlderPeoplesPerspectives2015",
+    "type": "article-journal",
+    "DOI": "10.1136/bjsports-2014-094015",
+    "title": "Older people's perspectives on participation in physical activity: a systematic review and thematic synthesis of qualitative literature",
+    "author": [
+      {
+        "given": "Marcia R",
+        "family": "Franco"
+      },
+      {
+        "given": "Allison",
+        "family": "Tong"
+      },
+      {
+        "given": "Kirsten",
+        "family": "Howard"
+      },
+      {
+        "given": "Catherine",
+        "family": "Sherrington"
+      },
+      {
+        "given": "Paulo H",
+        "family": "Ferreira"
+      },
+      {
+        "given": "Rafael Z",
+        "family": "Pinto"
+      },
+      {
+        "given": "Manuela L",
+        "family": "Ferreira"
+      }
+    ],
+    "container-title": "British Journal of Sports Medicine",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          10
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.1136/bjsports-2014-094015",
+    "volume": "49",
+    "issue": "19",
+    "page": "1268-1276"
+  },
+  {
+    "id": "zajoncSocialFacilitation1965",
+    "type": "article-journal",
+    "DOI": "10.1126/science.149.3681.269",
+    "title": "Social Facilitation",
+    "author": [
+      {
+        "given": "Robert B.",
+        "family": "Zajonc"
+      }
+    ],
+    "container-title": "Science",
+    "issued": {
+      "date-parts": [
+        [
+          1965,
+          7,
+          16
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.1126/science.149.3681.269",
+    "volume": "149",
+    "issue": "3681",
+    "page": "269-274"
+  },
+  {
+    "id": "crossleyIntersubjectivityFabricSocial1996",
+    "type": "book",
+    "title": "Intersubjectivity: The Fabric of Social Becoming",
+    "author": [
+      {
+        "family": "Crossley",
+        "given": "Nick"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "publisher": "Sage",
+    "ISBN": "9780803979031",
+    "URL": "https://www.sagepub.com/shop/buy-a-book/intersubjectivity-1-204688"
+  },
+  {
+    "id": "humanTissueAct2004",
+    "type": "legislation",
+    "title": "Human Tissue Act 2004",
+    "author": [
+      {
+        "literal": "UK Parliament"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "number": "30",
+    "URL": "https://www.legislation.gov.uk/ukpga/2004/30/contents"
+  },
+  {
+    "id": "einsteinLetterRobertThornton1944",
+    "type": "personal_communication",
+    "title": "Letter to Robert A. Thornton, 7 December 1944",
+    "author": [
+      {
+        "family": "Einstein",
+        "given": "Albert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1944,
+          12,
+          7
+        ]
+      ]
+    },
+    "genre": "Letter",
+    "archive": "Albert Einstein Archives",
+    "URL": "https://www3.nd.edu/~dhoward1/AEquotes.pdf"
+  },
+  {
+    "id": "newtonPhilosophiaeNaturalisPrincipia1687",
+    "type": "book",
+    "title": "Philosophiae naturalis principia mathematica",
+    "author": [
+      {
+        "family": "Newton",
+        "given": "Isaac"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1687
+        ]
+      ]
+    },
+    "publisher": "Joseph Streater for the Royal Society",
+    "publisher-place": "London",
+    "URL": "https://www.loc.gov/item/28020872/"
+  },
+  {
+    "id": "jamesPrinciplesPsychology2000",
+    "type": "book",
+    "title": "The Principles of Psychology",
+    "author": [
+      {
+        "family": "James",
+        "given": "William"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1890
+        ]
+      ]
+    },
+    "publisher": "Dover Publications",
+    "URL": "https://www.searchpress.com/book/9780486203812/the-principles-of-psychology-vol-1"
+  }
+]

@@ -1,0 +1,9 @@
+# Citation and publication information {.unnumbered}
+
+This book is currently an unpublished draft edited by Eimear Dolan and James Steele. Final publication metadata are awaiting confirmation.
+
+The planned publisher is [Kinesiology Books](https://kinesiologybooks.org/index.php/stork/index), in association with STORK. The press will supply the book and chapter DOIs. No DOI, publication date, ISBN, final licence or permanent site address has been assigned in this setup.
+
+Chapter authors are identified at the beginning of each chapter. Please verify the final version and its publication details before citing the published book or a chapter.
+
+<!-- scripts/sync_metadata.py replaces this page once publication metadata are confirmed. -->

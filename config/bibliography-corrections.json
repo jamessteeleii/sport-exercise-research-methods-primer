@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-29",
+  "notes": "Bibliographic corrections apply to the exported book bibliography, not the shared Zotero database. Existing citation keys remain stable.",
+  "entries": {
+    "deoliveiraComprehensiveReliabilityAnalysis2017": {
+      "author": [{"family":"de Oliveira","given":"Luana F."},{"family":"Yamaguchi","given":"Guilherme"},{"family":"Painelli","given":"Victor de S."},{"family":"da Silva","given":"Rafael P."},{"family":"Gonçalves","given":"Lívia S."},{"family":"Gualano","given":"Bruno"},{"family":"Saunders","given":"Bryan"}],
+      "container-title": "Journal of Science and Cycling",
+      "issue": "1",
+      "page": "11-17",
+      "URL": "https://jsc-journal.com/index.php/JSC/article/view/248",
+      "source": "https://jsc-journal.com/index.php/JSC/article/download/248/387",
+      "reason": "The publisher PDF supplies the missing journal, issue, pages and two omitted coauthors. The old reference list's 16 km/well-trained title is a misdescription of this work-based (~420 kJ)/recreationally-trained paper, not a second work."
+    },
+    "bacchieriExperimentalDesignFallacy2007": {
+      "author": [{"family":"Bacchieri","given":"Antonella"},{"family":"Della Cioppa","given":"Giovanni"}],
+      "source": "https://link.springer.com/chapter/10.1007/978-88-470-0492-4_8",
+      "reason": "The book authors were exported only as container-author, which left the chapter citation without an author."
+    },
+    "healthGuidingPrinciplesEthical2016": {
+      "type": "webpage",
+      "author": [{"literal":"National Institutes of Health"}],
+      "URL": "https://www.nih.gov/health-information/nih-clinical-research-trials-you/guiding-principles-ethical-research",
+      "source": "https://www.nih.gov/health-information/nih-clinical-research-trials-you/guiding-principles-ethical-research",
+      "reason": "The source is an NIH webpage with a corporate author, not a journal article by a person surnamed Health. The manuscript's 2016 date is retained."
+    },
+    "woodwardMaterialMethodsResearching2019": {
+      "type": "book",
+      "source": "https://au.sagepub.com/en-gb/anz/material-methods/book251560",
+      "reason": "Material Methods is a SAGE book, not a journal article."
+    },
+    "atkinsonKeyThemesQualitative2003": {
+      "author": [{"family":"Atkinson","given":"Paul"},{"family":"Coffey","given":"Amanda"},{"family":"Delamont","given":"Sara"}],
+      "source": "https://www.bloomsbury.com/us/key-themes-in-qualitative-research-9780759101272/",
+      "reason": "The exported contributor roles omitted two coauthors; the publisher credits all three as authors."
+    },
+    "kuhnStructureScientificRevolutions2012": {
+      "author": [{"family":"Kuhn","given":"Thomas S."}],
+      "source": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo13179781.html",
+      "reason": "Ian Hacking wrote the introduction and is not a coauthor of Kuhn's book."
+    },
+    "nationalcommissionfortheprotectionofhumansubjectsofbiomedicalandbehavioralresearchBelmontReportEthical1979": {
+      "author": [{"literal":"National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research"}],
+      "source": "https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html",
+      "reason": "Treat the commission as a corporate author, not a personal surname rendered as RESEARCH."
+    },
+    "rajwaniCanadianNationalSport2022": {
+      "DOI": "10.1123/ssj.2020-0144",
+      "issue": "2",
+      "page": "205-215",
+      "source": "https://doi.org/10.1123/ssj.2020-0144",
+      "reason": "The exported DOI 10.1123/ssj.2021-0046 does not resolve in Crossref; the title, authors, journal and year identify the corrected record."
+    },
+    "mertonSociologyScienceTheoretical1973": {
+      "title": "The sociology of science: theoretical and empirical investigations",
+      "source": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo28451565.html",
+      "reason": "Correct incvestigations, a typographical error in the group-library title; the personal-library record supplies the correct title."
+    }
+  }
+}
