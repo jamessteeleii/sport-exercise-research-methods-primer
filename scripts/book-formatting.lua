@@ -30,13 +30,63 @@ function Table(el)
   end
   for _, row in ipairs(el.head.rows) do header = header .. row_text(row) .. ' ' end
   if el.bodies[1] then header = header .. row_text(el.bodies[1].body[1]) end
+  -- Two imported layout tables are breakout boxes, not numbered data tables.
+  if header:match('conducted a literature review') or header:match('What are AI models') then
+    local blocks = pandoc.List()
+    for _, body in ipairs(el.bodies) do
+      for _, row in ipairs(body.body) do
+        for _, cell in ipairs(row.cells) do blocks:extend(cell.contents) end
+      end
+    end
+    return pandoc.Div(blocks, pandoc.Attr('', {'book-box'}))
+  end
   local title
+  if header:match('^PrimaryEvidence') and #el.head.rows == 0 then
+    -- Word split chapter nine's Table 1 into two adjacent table objects.
+    -- Retain its continuation and repeat the same column headings.
+    local headings = el.bodies[1].body[1]:clone()
+    for i, label in ipairs({'', 'Primary Purpose', 'Example'}) do
+      headings.cells[i].contents = {pandoc.Plain({pandoc.Str(label)})}
+    end
+    table.insert(el.head.rows, headings)
+    title = {pandoc.Para({pandoc.Str('Table 1 (continued). Different types of figures to visualize data')})}
+    header = 'Primary Purpose ' .. header
+  end
+  -- Pandoc's native captions must be retained too, not only imported title rows.
+  if el.caption and #el.caption.long > 0 then
+    title = el.caption.long
+    el.caption.long = {}
+    el.caption.short = nil
+  end
   if #el.head.rows == 1 and #el.head.rows[1].cells == 1 then
     local cell = el.head.rows[1].cells[1]
     if cell.col_span == #el.colspecs and pandoc.utils.stringify(pandoc.Div(cell.contents)):match('^Table %d+%.') then
       title = cell.contents
       el.head.rows = {}
     end
+  end
+  -- Restore the two-level headings in the design and Anscombe comparison tables.
+  if header:match('Types of Questions:') and #el.head.rows == 1 then
+    table.insert(el.head.rows, table.remove(el.bodies[1].body, 1))
+  elseif header:match('Dataset A') and #el.head.rows == 0 then
+    table.insert(el.head.rows, table.remove(el.bodies[1].body, 1))
+    table.insert(el.head.rows, table.remove(el.bodies[1].body, 1))
+  elseif header:match('^Truth') and #el.head.rows == 0 then
+    table.insert(el.head.rows, table.remove(el.bodies[1].body, 1))
+  elseif header:match('^Quantitative') and #el.head.rows == 0 then
+    -- These labels shared a cell with lists; retain those lists in the body.
+    local row = el.bodies[1].body[1]
+    local headings = row:clone()
+    for i, cell in ipairs(row.cells) do
+      headings.cells[i].contents = {cell.contents[1]}
+      table.remove(cell.contents, 1)
+    end
+    table.insert(el.head.rows, headings)
+  elseif (header:match('^Thematic Narrative Analysis') or header:match('^Autoethnography')) and #el.head.rows == 0 then
+    local headings = el.bodies[1].body[1]:clone()
+    headings.cells[1].contents = {pandoc.Plain({pandoc.Str('Analysis')})}
+    headings.cells[2].contents = {pandoc.Plain({pandoc.Str('Focus')})}
+    table.insert(el.head.rows, headings)
   end
   -- Several imported tables had their real column headings in the body.
   -- Promote only short, wholly emphasised label rows; leave prose cells intact.
@@ -66,6 +116,13 @@ function Table(el)
   end
   if #el.colspecs == 3 and (header:match('Primary Purpose') or header:match('Primary Evidence')) then
     for i, width in ipairs({0.13, 0.52, 0.35}) do el.colspecs[i][2] = width end
+  end
+  if #el.colspecs == 4 and header:match('Publication') and header:match('Journal') then
+    for i, width in ipairs({0.15, 0.27, 0.10, 0.48}) do el.colspecs[i][2] = width end
+  end
+  if #el.colspecs == 4 and header:match('Possible research questions') then
+    -- Imported widths left the Type column too narrow even for its heading.
+    for i, width in ipairs({0.16, 0.29, 0.28, 0.27}) do el.colspecs[i][2] = width end
   end
   local content = pandoc.List()
   if title then content:insert(pandoc.Div(title, pandoc.Attr('', {'book-caption', 'table-caption'}))) end
@@ -114,6 +171,38 @@ local function caption(block)
   if block.t ~= 'Para' or not block.content[1] or block.content[1].t ~= 'Strong' then return false end
   return pandoc.utils.stringify(block.content[1]):match('^Figure %d+%.$')
       or pandoc.utils.stringify(block.content[1]):match('^Table %d+%.$')
+end
+
+-- Caption numbers remain local to their chapter, as in the authors' drafts.
+-- Explicit Markdown links in the maintained sources target these unique anchors
+-- in both HTML and PDF. Do not automatically link external/example table numbers.
+local function caption_targets(doc)
+  local chapters = {
+    ['sec-foundations']='ch01', ['sec-question-and-design']='ch02',
+    ['sec-participants']='ch03', ['sec-quantitative-data-collection']='ch04',
+    ['sec-quantitative-analysis']='ch05', ['sec-interviewing']='ch06',
+    ['sec-qualitative-analysis']='ch07', ['sec-secondary-research']='ch08',
+    ['sec-writing-and-peer-review']='ch09'
+  }
+  -- HTML books move the chapter H1 into the title block before user filters.
+  local input = (quarto and quarto.doc.input_file) or PANDOC_STATE.input_files[1] or ''
+  local slug = input:match('(%d%d)%-')
+  if slug then slug = 'ch' .. slug end
+  local out = pandoc.List()
+  for _, block in ipairs(doc.blocks) do
+    if block.t == 'Header' and block.level == 1 then slug = chapters[block.identifier] end
+    if slug then
+      block = block:walk({Strong=function(el)
+        local kind, number = pandoc.utils.stringify(el):match('^(%a+) (%d+)%.')
+        if kind == 'Table' or kind == 'Figure' then
+          return pandoc.Span({el}, pandoc.Attr(kind:lower() .. '-' .. slug .. '-' .. number))
+        end
+      end})
+    end
+    out:insert(block)
+  end
+  doc.blocks = out
+  return doc
 end
 
 function Blocks(blocks)
@@ -165,4 +254,4 @@ function Blocks(blocks)
 end
 
 -- Run grouping before styling so newly formed caption divs receive PDF styles.
-return {{Image=Image, Header=Header, Table=Table, Span=Span}, {Blocks=Blocks}, {Div=Div}}
+return {{Image=Image, Header=Header, Table=Table, Span=Span}, {Blocks=Blocks}, {Div=Div}, {Pandoc=caption_targets}}

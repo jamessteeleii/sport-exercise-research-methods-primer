@@ -65,6 +65,9 @@ def main():
         assert f.suffix.lower() not in {'.docx','.docm'},f'Word file in public site: {f}'
     publication=json.loads((R/'config/publication.json').read_text(encoding='utf8'))
     assert publication['status']=='draft','Review workflow is for a draft edition'
+    if typ.is_file():
+        from validate_crossrefs import main as check_crossrefs
+        check_crossrefs()
     print(f'Review checks passed: {len(pages)} draft banners; unnumbered headings; all local links/assets and anchors; five quote attributions; clean PDF download; no private files.')
 
 if __name__=='__main__':main()

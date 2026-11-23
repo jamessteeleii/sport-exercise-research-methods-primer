@@ -1,0 +1,162 @@
+{
+  "chapters": {
+    "ch01": {
+      "file": "chapters/01-foundations.qmd",
+      "tables": [
+        1,
+        2,
+        3
+      ],
+      "figures": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    "ch02": {
+      "file": "chapters/02-question-and-design.qmd",
+      "tables": [
+        1,
+        2
+      ],
+      "figures": []
+    },
+    "ch03": {
+      "file": "chapters/03-participants.qmd",
+      "tables": [
+        1,
+        2,
+        3
+      ],
+      "figures": []
+    },
+    "ch04": {
+      "file": "chapters/04-quantitative-data-collection.qmd",
+      "tables": [
+        1
+      ],
+      "figures": []
+    },
+    "ch05": {
+      "file": "chapters/05-quantitative-analysis.qmd",
+      "tables": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "figures": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    "ch06": {
+      "file": "chapters/06-interviewing.qmd",
+      "tables": [],
+      "figures": []
+    },
+    "ch07": {
+      "file": "chapters/07-qualitative-analysis.qmd",
+      "tables": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "figures": [
+        1,
+        2,
+        3
+      ]
+    },
+    "ch08": {
+      "file": "chapters/08-secondary-research.qmd",
+      "tables": [
+        1,
+        2
+      ],
+      "figures": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "ch09": {
+      "file": "chapters/09-writing-and-peer-review.qmd",
+      "tables": [
+        1,
+        2
+      ],
+      "figures": [
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "exceptions": [
+    {
+      "chapter": "ch03",
+      "text": "their Table 1",
+      "reason": "External table in Manohar et al. (2018); not a table in this book."
+    },
+    {
+      "chapter": "ch03",
+      "text": "Table 8.2",
+      "reason": "External source table in Lakens (2022), within the Table 3 attribution."
+    },
+    {
+      "chapter": "ch09",
+      "text": "Participant characteristics are presented in Table 1",
+      "reason": "Quoted hypothetical manuscript example; not this chapter’s Table 1."
+    },
+    {
+      "chapter": "ch09",
+      "text": "Table 3 of additional resources",
+      "reason": "No such table in maintained chapter or original Word chapter; editorial decision needed."
+    }
+  ]
+}

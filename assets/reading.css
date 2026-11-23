@@ -11,12 +11,30 @@
 body { --book-panel: #f0f5eb; --book-border: #a9b99a; --book-accent: #355329; }
 body.quarto-dark { --book-panel: #263025; --book-border: #73846a; --book-accent: #cbeab5; }
 body.fullcontent .page-columns, body .page-columns { max-width: none; }
-@media (min-width: 1200px) {
+@media (min-width: 992px) {
   #quarto-content {
-    grid-template-columns: [screen-start] 16px [screen-start-inset page-start] 244px [page-start-inset body-start-outset] 24px [body-start body-content-start] minmax(0, 1fr) [body-content-end body-end] 24px [body-end-outset] 220px [page-end-inset page-end] 16px [screen-end-inset screen-end] !important;
+    grid-template-columns: [screen-start] 16px [screen-start-inset page-start] 244px [page-start-inset body-start-outset] clamp(48px, 3vw, 80px) [body-start body-content-start] minmax(0, 1fr) [body-content-end body-end] 32px [body-end-outset] 220px [page-end-inset page-end] 16px [screen-end-inset screen-end] !important;
   }
+  #quarto-sidebar { grid-column: screen-start / page-start-inset !important; padding-right: 1rem; }
 }
 main.content { min-width: 0; width: 100%; }
+/* Shared geometry: switching colour themes must not change the reading layout. */
+.quarto-cover-image { width: 245px; max-width: 100%; height: auto; border: 1px solid var(--book-border); box-shadow: 0 8px 24px #12121212; }
+.book-kicker { font-family: "Segoe UI", Arial, sans-serif; color: var(--book-accent); font-size: .82rem; font-weight: 700; letter-spacing: .13em; text-transform: uppercase; }
+.editors { font-family: "Segoe UI", Arial, sans-serif; font-size: 1.1rem; }
+.sidebar-title { font-family: "Segoe UI", Arial, sans-serif; }
+.draft-note { background: var(--book-panel); border-left: 4px solid var(--book-border); padding: 1rem 1.2rem; margin: 1.5rem 0; font-family: "Segoe UI", Arial, sans-serif; font-size: .92rem; }
+h1 { font-weight: 700; letter-spacing: -.025em; line-height: 1.17; }
+h2 { margin-top: 2rem; }
+blockquote { border-left: 3px solid var(--book-border); }
+.nav-footer { font-family: "Segoe UI", Arial, sans-serif; font-size: .82rem; }
+.draft-banner { line-height: 1.45; }
+.draft-banner strong { font-size: 1rem; }
+.quote-attribution { font-size: .95em; margin-top: .5rem; }
+blockquote .quote-attribution p { margin-bottom: 0; }
+main .cell-output-display { overflow-x: auto; }
+[id^="table-ch"], [id^="figure-ch"] { scroll-margin-top: 6rem; }
+@media (max-width: 767px) { .quarto-cover-image { width: 175px; } }
 .reading-controls { display: flex; flex-wrap: wrap; gap: .6rem; margin-bottom: 1.5rem; font-family: "Segoe UI", Arial, sans-serif; }
 .reading-controls button { padding: .4rem .75rem; border: 1px solid var(--book-border); border-radius: .3rem; color: var(--bs-body-color); background: var(--book-panel); font-size: .85rem; min-height: 44px; }
 .reading-controls button[aria-pressed=true] { border: 2px solid var(--book-accent); font-weight: bold; }
