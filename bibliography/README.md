@@ -1,12 +1,12 @@
 # Book bibliography
 
-`../references.bib` is the maintained master BibLaTeX file. Quarto reads it using the project-level `bibliography`, `csl`, `citeproc` and `link-citations` settings in `_quarto.yml`. APA 7 is supplied locally in `apa.csl`; its authorship and licence are retained in the file.
+`../references.bib` is the maintained master BibLaTeX file. The chapter-reference Lua filter reads it using the project-level `bibliography`, `csl` and `link-citations` settings in `_quarto.yml`, calling Pandoc citeproc separately for each chapter. The final automatic citeproc pass is disabled. APA 7 is supplied locally in `apa.csl`; its authorship and licence are retained in the file.
 
 The bibliography was consolidated from Better BibLaTeX exports of **BOOK RESEARCH METHODS**, **STORK RM Book**, and 21 exact matches to cited works elsewhere in the local Zotero library. Existing Better BibTeX citation keys are retained. Copies of the same work are consolidated; original Zotero item URIs and duplicate mappings are recorded in `../config/bibliography-manifest.json`. A citation key's trailing letter is a stable identifier, not a manually assigned author-date suffix: citeproc generates any displayed year suffixes.
 
 `supplemental.bib` and `supplemental.json` contain eight entries added for identifiable handwritten citations. `reference-only.bib` and `reference-only.json` preserve fifteen additional identifiable works in the old reference lists. They are included in the master file, so do not add these files to the Quarto YAML a second time. Some reference-only entries are transcriptions of the manuscript rather than independently verified records; the audit distinguishes their status.
 
-Only cited works appear in the rendered reference list. Uncited library records and reference-only entries remain available in the master database. `chapters/*.bib` are generated subsets containing the sources actually cited in each chapter, including its footnotes, tables and added handwritten citations. Standalone chapter review exports use these subsets and generate their own reference lists.
+Only cited works appear in each chapter's rendered reference list; there is no whole-book list. In HTML, footnotes are placed in their own section immediately before the references. PDF uses normal page-level footnotes. Uncited library records and reference-only entries remain available in the master database. `chapters/*.bib` are generated subsets containing the sources actually cited in each chapter, including its footnotes, tables and added handwritten citations. Standalone chapter review exports use these subsets and generate their own reference lists.
 
 After adding or correcting an entry in the master file, keep its citation key stable and run:
 

@@ -1,0 +1,9 @@
+<script>
+// Apply the font preference before the first page paints. Storage may be
+// unavailable for local files or privacy modes; the default still works.
+try {
+  if (localStorage.getItem('ses-reading-font') === 'opendyslexic') {
+    document.documentElement.classList.add('font-opendyslexic');
+  }
+} catch (_) {}
+</script>

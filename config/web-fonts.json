@@ -1,0 +1,18 @@
+{
+  "family": "OpenDyslexic",
+  "license": "SIL Open Font License 1.1",
+  "license_file": "assets/fonts/OFL.txt",
+  "retrieved": "2026-11-23",
+  "files": [
+    {
+      "file": "assets/fonts/OpenDyslexic-Bold.woff2",
+      "sha256": "dd9fa9c7991113b0dddefe9506a30ad26b48e302b7a8fb91719a4726e8fde85b",
+      "source": "https://cdn.jsdelivr.net/npm/@fontsource/opendyslexic/files/opendyslexic-latin-700-normal.woff2"
+    },
+    {
+      "file": "assets/fonts/OpenDyslexic-Regular.woff2",
+      "sha256": "f007004af3cda5d8076e57c943f8cc8d00a0da25988b1ae1048683d60e7cac1a",
+      "source": "https://cdn.jsdelivr.net/npm/@fontsource/opendyslexic/files/opendyslexic-latin-400-normal.woff2"
+    }
+  ]
+}

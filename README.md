@@ -37,7 +37,7 @@ The low-level equivalent for the site/PDF is `python scripts/sync_metadata.py` f
 - `chapters/`: nine maintained chapter sources with native Quarto citations.
 - `references.bib`: consolidated Better BibLaTeX bibliography; `_quarto.yml` controls APA 7 formatting and citation links.
 - `bibliography/chapters/`: automatically generated chapter bibliography subsets for standalone review copies.
-- `backmatter/references.qmd`: the generated whole-book reference list.
+- `scripts/chapter-references.lua`: chapter reference lists in HTML/PDF and collected HTML footnotes; no whole-book bibliography is rendered.
 - `editorial/citation-audit.md`: citation audit, provenance, corrections and remaining editorial questions, with companion CSV inventories.
 - `frontmatter/`: the imported foreword. `index.qmd` is the new site introduction.
 - `assets/`: supplied concept cover, original extracted figures and browser-compatible derivatives, and the Word style reference.
@@ -59,7 +59,15 @@ After the initial import, edit Quarto sources. Re-importing a returned Word docu
 
 The citation migration completed on 29 October 2026. Use `[@existingCitationKey]` for a parenthetical citation, `@existingCitationKey` for an author named in the sentence, and `[-@existingCitationKey]` for a year-only citation after an author already named in the prose. Include quotation locators in the citation, for example `[@existingCitationKey, p. 4]`. Keep existing keys stable when updating bibliography metadata.
 
-The project uses `bibliography: references.bib`, the local APA 7 CSL style, `citeproc: true` and `link-citations: true`. It generates a single whole-book References section; standalone chapter review exports generate chapter reference lists from the same data. Run `python scripts/chapter_bibliographies.py` after adding citations or bibliography entries; the build script also does this. See `bibliography/README.md` for maintenance and `editorial/citation-audit.md` for the audit and remaining source questions. The optional Word review workflow is connected but was not regenerated as part of this audit.
+The project uses `bibliography: references.bib`, the local APA 7 CSL style and `link-citations: true`. The chapter-reference filter calls Pandoc citeproc separately for each chapter, including citations in footnotes and tables. The ordinary final citeproc pass is disabled to preserve these chapter lists. Each HTML chapter ends with its Footnotes (when present), then References. PDF uses normal page-level footnotes and ends each chapter with References; no whole-book list is rendered. Standalone chapter review exports use citeproc directly with chapter bibliography subsets. Run `python scripts/chapter_bibliographies.py` after adding citations or bibliography entries; the build script also does this. See `bibliography/README.md` for maintenance and `editorial/citation-audit.md` for the audit and remaining source questions.
+
+The HTML reading layout fills the available desktop width, with a collapsible
+chapter menu on smaller screens and scrollable wide tables. Light mode is the
+initial default; readers can select dark mode and an optional bundled
+OpenDyslexic font. Reading preferences are remembered in the browser. Search
+covers every chapter. PDF captions, tables and boxes have distinct styling;
+dense five/six-column comparison tables use landscape pages. Figure margin
+crops and original-image hashes are recorded in `config/figure-crops.json`.
 
 ## Publication metadata
 
@@ -70,6 +78,16 @@ The final PDF on the site must be the exact approved whole-book PDF uploaded to 
 No domain, DOI, publication date, ISBN or licence has been invented. The supplied cover still contains concept text/names and must be replaced before publication. Author approvals are pending. The review deployment is opt-in as described below; press submission and final publication remain separate editorial decisions.
 
 ## Author review edition
+
+The circulation package for 23 November 2026 is prepared with
+`scripts/finalize_author_review.py --date 2026-11-23 --source 'Full-Book_241026 - For review.docx' --directory _review/author-review-2026-11-23-circulation`.
+It freezes the checked HTML/PDF, preserves Word review history, and creates a
+separate ZIP for each chapter. Share the dated PDF, review instructions and the
+relevant chapter ZIP directly with its authors. The complete package is the
+editors' record and must not be uploaded to the public site. Overview and
+correspondence templates are in `editorial/author-review-instructions.md` and
+`editorial/author-review-email.md`. The live draft is
+<https://sportexercisemethods.org/>; review circulation is not final publication.
 
 Use `scripts/export_author_review.py` to split the reviewed whole-book Word file
 when historical Track Changes and comments must be retained. The ordinary

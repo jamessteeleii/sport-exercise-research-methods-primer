@@ -1,6 +1,6 @@
 # Foreword and introduction {.unnumbered}
 
-**Eimear:**
+## Eimear Dolan
 
 Conducting a research study is not easy. By definition, we are attempting to generate knowledge that was previously unknown. This means that there are no easy answers and the path from idea to completion is often forked or obscured. There is a lot to think about, a lot of moving parts and a lot of conflicting advice. Our idea with this book was to attempt to bring some clarity and direction to the process. To provide an accessible resource to allow new researchers to form a plan, to clarify their position on key concepts and to recognize the complexity and nuance that is inherent to the research process.
 
@@ -11,3 +11,23 @@ Thank you for choosing to read our book -- we really hope you find it useful.
 I wish you all the best in your research journey,
 
 Eimear
+
+## James Steele
+
+One of the things I find most rewarding about research is that it gives us reasons to reconsider what we think we know. A question that initially seems straightforward can become surprisingly difficult once we begin asking what its terms mean, what observations would help us answer it, and what those observations would actually allow us to conclude. For me, much of the interest—and occasionally the frustration—of doing research lies in working through these difficulties.
+
+My interests in research methods and the philosophy of science have developed alongside my work as a researcher, teacher and supervisor. The more research I have done, the more interested I have become in the reasoning that connects our questions, methods, observations and conclusions. Why does this study design address this particular question? What assumptions connect the thing we observe to the concept we are interested in? How much confidence should we place in an explanation, and what might give us reason to revise it? These questions continue to shape my own work, and they are central to what I hope readers will take from this book.
+
+They also explain why the book begins with a chapter on philosophy. Every investigation involves assumptions about what we are studying, how we can learn about it, and what makes an answer convincing or useful. Examining those assumptions helps us understand our own decisions and engage more thoughtfully with researchers whose approaches differ from ours. It can also reveal that an apparently technical disagreement rests on a much more fundamental difference in the questions being asked.
+
+For those beginning their research journey, this may initially seem like an additional burden. There is already enough to learn without someone asking you to reconsider what knowledge is! My hope is that engaging with these ideas will help you find your bearings. You do not need to settle centuries of philosophical debate before beginning a study. You can, however, become more aware of the commitments you bring to your work, learn to explain them, and remain willing to reconsider them.
+
+That willingness matters throughout the research process. We can become attached to particular theories, familiar methods, or findings we would like to be true. I certainly include myself here. Developing as a researcher involves learning to examine those attachments and to recognise when our conclusions extend beyond what our work can support. It also involves learning to make useful progress while acknowledging what remains uncertain.
+
+This is a collective undertaking. Our reasoning improves when others can examine it, question it and offer alternatives. My involvement in open science, including through STORK, reflects the importance I place on making that possible. Sharing research questions, methods, materials, analyses and findings, wherever appropriate and possible, gives others opportunities to understand how we reached our conclusions and to build upon or challenge them. Making this book openly accessible expresses a related commitment: opportunities to learn about research should be available widely.
+
+Across its chapters, you will encounter different perspectives, priorities and ways of working. I encourage you to engage critically with all of them, including my own. Ask what each approach helps you understand, what it assumes, and where its limits might lie. The ability to make and explain those judgements will serve you throughout your research career, as the particular tools available to you continue to change.
+
+I am grateful to Eimear and all our contributing authors for bringing their knowledge and perspectives to this project. I hope the book encourages you to be curious, careful and willing to ask difficult questions—and that it helps you experience some of the pleasure of trying to answer them.
+
+James

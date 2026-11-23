@@ -5,6 +5,7 @@ project:
   output-dir: _book
   resources:
     - assets/cover-placeholder.png
+    - assets/fonts/OFL.txt
     - "!editorial/**"
     - "!work/**"
     - "!_review/**"
@@ -52,16 +53,16 @@ book:
     - chapters/07-qualitative-analysis.qmd
     - chapters/08-secondary-research.qmd
     - chapters/09-writing-and-peer-review.qmd
-    - backmatter/references.qmd
     - backmatter/citation.qmd
 bibliography: references.bib
 csl: bibliography/apa.csl
-citeproc: true
+citeproc: false
 link-citations: true
 reference-section-title: References
 lang: en-GB
 number-sections: false
 filters:
+  - scripts/chapter-references.lua
   - scripts/book-formatting.lua
 toc: true
 toc-depth: 2
@@ -69,8 +70,20 @@ execute:
   enabled: false
 format:
   html:
+    css: assets/reading.css
+    page-layout: full
+    grid:
+      sidebar-width: 260px
+      body-width: 1800px
+      margin-width: 220px
+      gutter-width: 1.5rem
     include-before-body: assets/draft-banner.html
-    theme: [cosmo, assets/stork.scss]
+    include-in-header: assets/reading-head.html
+    include-after-body: assets/reading-controls.html
+    theme:
+      light: [cosmo, assets/stork.scss]
+      dark: [darkly, assets/stork-dark.scss]
+    respect-user-color-scheme: false
     fontsize: 1.05rem
     linestretch: 1.65
     link-external-newwindow: true
@@ -79,7 +92,9 @@ format:
     code-copy: true
     mainfont: "Georgia, Cambria, serif"
   typst:
-    include-in-header: assets/pdf-cover.typ
+    include-in-header:
+      - assets/pdf-cover.typ
+      - assets/pdf-styles.typ
     author: "Edited by Eimear Dolan and James Steele"
     papersize: a4
     fontsize: 11pt
@@ -90,8 +105,6 @@ format:
     include-before-body:
       text: |
         #set heading(numbering: none)
-        #show table: set text(size: 9pt)
-        #show table.cell: set par(justify: false)
         #set page(header: align(center, text(size: 8pt, fill: rgb("875300"))[DRAFT IN PROGRESS — NOT THE FINAL VERSION]))
     toc: true
     keep-typ: true

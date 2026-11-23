@@ -177,7 +177,7 @@ Finally, it can be useful to end your discussion with a look to the future. Wher
 
 By the end of the article, your reader should have a very good understanding of what question you wanted to answer, how you went about finding that answer, what the answer was and what you believe that answer means. All that is left now is to tie it all together with a brief summary and conclusion. The summary part will reiterate your primary question and findings, while the conclusion summarizes their implication. This section should be short and to the point. Think carefully about what is the main message that you want your reader to take away from your article and do your best to sum this up here.
 
-![](../assets/imported/media/image70.png)
+![](../assets/figure-crops/image70.svg)
 
 **Figure 3.** General Outline of a Research Article
 

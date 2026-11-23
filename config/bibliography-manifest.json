@@ -177,7 +177,7 @@
       "count": 161,
       "citation_groups": 167,
       "citation_occurrences": 216,
-      "source_sha256": "29a3334be58fae45525676d3bb472b5df56413db80d064fe0468e42a611d68e7"
+      "source_sha256": "57af3a5c349d1aa9e74e6028cb26a96cccbe6a84c0e8257198bfcd058b2059b4"
     },
     "02-question-and-design": {
       "keys": [
@@ -186,7 +186,7 @@
       "count": 1,
       "citation_groups": 2,
       "citation_occurrences": 2,
-      "source_sha256": "a9ba42a44c59f93de60363ee49a237e4edc4193ebbf3489cedd1d9780ab65627"
+      "source_sha256": "1db9e4edbcf9fbf7c2cc190d43d76617f0a7237386021a967179fdcb0689117c"
     },
     "03-participants": {
       "keys": [
@@ -254,7 +254,7 @@
       "count": 60,
       "citation_groups": 68,
       "citation_occurrences": 89,
-      "source_sha256": "f59672758c0ed425cf3d18540cd467d9dd9a4dbd5446448cafc3ff171fdb8617"
+      "source_sha256": "9d5e571145234d2a037f3a5f9adb1b6da0108b6205201203f8e3e50312d840b3"
     },
     "04-quantitative-data-collection": {
       "keys": [
@@ -361,7 +361,7 @@
       "count": 99,
       "citation_groups": 106,
       "citation_occurrences": 130,
-      "source_sha256": "3dbad2a0dab41a19f3810df94875a8e52ea206a41c420a73c6ed0b6965ab6e9a"
+      "source_sha256": "ce79d714569f5f35cf5d3628bbfd2430b01812d29ac179f9b897a53ade815b0d"
     },
     "05-quantitative-analysis": {
       "keys": [
@@ -379,7 +379,7 @@
       "count": 10,
       "citation_groups": 11,
       "citation_occurrences": 11,
-      "source_sha256": "f585baaa57fc9d38dd40991b9be7d00151447ba72386588293d7d5af545d14e4"
+      "source_sha256": "a93f36cc7ac8f9fd2abce0949b3a37b47460bdedc4209ca5dc6c40ef1d57ee89"
     },
     "06-interviewing": {
       "keys": [
@@ -529,7 +529,7 @@
       "count": 93,
       "citation_groups": 120,
       "citation_occurrences": 149,
-      "source_sha256": "22e4d70e5cdbbc94d43d665698273865f4bc1d7140a7930fc854461cacc8fa1c"
+      "source_sha256": "602c537a3cfb0d81cc50be0d7cdba64be52e24ba35506f78a5d74246834e4a38"
     },
     "08-secondary-research": {
       "keys": [
@@ -564,7 +564,7 @@
       "count": 27,
       "citation_groups": 27,
       "citation_occurrences": 29,
-      "source_sha256": "0822729a24c8766498e893490e7a0049d270bc8ee71b0804055fd9fdb44177ab"
+      "source_sha256": "7279646e40d9457a0c9b886ea277f1432c3c097c3f3c3637ebdda14af51294ed"
     },
     "09-writing-and-peer-review": {
       "keys": [
@@ -580,7 +580,7 @@
       "count": 8,
       "citation_groups": 9,
       "citation_occurrences": 9,
-      "source_sha256": "1366691e723b4e1d38535d9d48a8cc9e2e0979365d748b02b2d353cbe58dd248"
+      "source_sha256": "d1e672adc49ee7e6c4080ea01a7f089c0eb3d3c665729d980fe467af663bd374"
     }
   },
   "duplicate_groups": [

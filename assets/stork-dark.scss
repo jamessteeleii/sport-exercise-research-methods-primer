@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+$body-bg: #181d19;
+$body-color: #edf1e9;
+$primary: #bde69e;
+$link-color: #bde69e;
+$sidebar-bg: #222b21;
+$sidebar-fg: #edf1e9;
+$sidebar-hl: #cbeab5;
+$navbar-bg: #222b21;
+$headings-color: #f0f4ec;
+$headings-font-family: "Segoe UI", Arial, sans-serif;
+$font-family-sans-serif: "Segoe UI", Arial, sans-serif;
+$font-family-serif: Georgia, Cambria, serif;
+$border-color: #56614f;
+/*-- scss:rules --*/
+.sidebar-title { font-weight: 700; line-height: 1.3; }
+.sidebar-navigation .sidebar-item { padding-top: .18rem; }
+.sidebar-navigation .active { font-weight: 650; }
+.sidebar { border-right: 1px solid #56614f; }

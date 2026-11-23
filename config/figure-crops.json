@@ -1,0 +1,240 @@
+[
+  {
+    "source": "assets/imported/media/image1.png",
+    "source_sha256": "98c9e12ba6f6a12c6a2b73f22e608eef999702ddc32876a7eb0ae5b207eb016a",
+    "derivative": "assets/figure-crops/image1.svg",
+    "sha256": "b76af46e30052e12b8a53c342c158dbb59cb168678cfa921247610352f01ece1",
+    "viewport": [
+      86,
+      109,
+      1061,
+      611
+    ],
+    "original_size": [
+      1280,
+      720
+    ],
+    "method": "SVG viewport; embedded original pixels unchanged; padded white-margin crop"
+  },
+  {
+    "source": "assets/imported/media/image4.png",
+    "source_sha256": "64c4a580c1b238aef5cd09297d542ec2f72d0488a5c77cea906cb50951381005",
+    "derivative": "assets/figure-crops/image4.svg",
+    "sha256": "6e4e98ed8911e105a27d89216efa61adbb7bcae50de0c33c8f6e253dd8dd4dc1",
+    "viewport": [
+      25,
+      165,
+      1245,
+      330
+    ],
+    "original_size": [
+      1280,
+      720
+    ],
+    "method": "SVG viewport; embedded original pixels unchanged; padded white-margin crop"
+  },
+  {
+    "source": "assets/imported/media/image10.png",
+    "source_sha256": "caaf926a5ae10665466c67cf3e1821bef530098d4d823178460851647b6e124b",
+    "derivative": "assets/figure-crops/image10.svg",
+    "sha256": "57655a4b177b3ae8ada57c8e706058559d3fe6d989b18b28a03e39047dc77124",
+    "viewport": [
+      111,
+      0,
+      1002,
+      720
+    ],
+    "original_size": [
+      1280,
+      720
+    ],
+    "method": "SVG viewport; embedded original pixels unchanged; padded white-margin crop"
+  },
+  {
+    "source": "assets/imported/media/image12.png",
+    "source_sha256": "ae2c36f197b11d3df459251d53c6232bb43b192ed799fa3ddd4609095b8e598c",
+    "derivative": "assets/figure-crops/image12.svg",
+    "sha256": "da5aa63adf37e0931de6eaef1c7f467b6f9e34ba00f96792be85efe29d7ce428",
+    "viewport": [
+      8,
+      189,
+      1243,
+      274
+    ],
+    "original_size": [
+      1280,
+      720
+    ],
+    "method": "SVG viewport; embedded original pixels unchanged; padded white-margin crop"
+  },
+  {
+    "source": "assets/imported/media/image42.png",
+    "source_sha256": "ed04638aaa5fcaf18df7ee77a1e0510f7ec8017204fda201ea8eeb859046b6d3",
+    "derivative": "assets/figure-crops/image42.svg",
+    "sha256": "518054d11e18d904b2b7b34f3f134bac38cf8c5088097ef47097dcf1ddfc2634",
+    "viewport": [
+      86,
+      13,
+      885,
+      222
+    ],
+    "original_size": [
+      1039,
+      248
+    ],
+    "method": "SVG viewport; embedded original pixels unchanged; padded white-margin crop"
+  },
+  {
+    "source": "assets/imported/media/image44.png",
+    "source_sha256": "b80fe87b970d5bc39eb61b070b3e930db16ad76f847c76e2a29f1e81262d82f8",
+    "derivative": "assets/figure-crops/image44.svg",
+    "sha256": "676a2ab55457d1ac01b0d83e05bc437cd08b3ca44eb258fece128c53a17f68da",
+    "viewport": [
+      72,
+      22,
+      814,
+      456
+    ],
+    "original_size": [
+      966,
+      523
+    ],
+    "method": "SVG viewport; embedded original pixels unchanged; padded white-margin crop"
+  },
+  {
+    "source": "assets/imported/media/image45.png",
+    "source_sha256": "71adcaddbf3996e0ae3f61af08ee8a627b70a2de0d30ccea130298d0943fe60e",
+    "derivative": "assets/figure-crops/image45.svg",
+    "sha256": "e6563a374032c5026adf9e6c4da37c5248915f01262085a8a679890c92c59166",
+    "viewport": [
+      61,
+      34,
+      712,
+      184
+    ],
+    "original_size": [
+      869,
+      248
+    ],
+    "method": "SVG viewport; embedded original pixels unchanged; padded white-margin crop"
+  },
+  {
+    "source": "assets/imported/media/image46.png",
+    "source_sha256": "f1cf70feb4493ba30c78c2bec495ca1f67774fe05aa056c182a9409788e36921",
+    "derivative": "assets/figure-crops/image46.svg",
+    "sha256": "8c2f856909adc9c79cdab5f41cda3d42ce53e6808e00fe439bc9aa2964e99cd1",
+    "viewport": [
+      69,
+      26,
+      781,
+      225
+    ],
+    "original_size": [
+      932,
+      273
+    ],
+    "method": "SVG viewport; embedded original pixels unchanged; padded white-margin crop"
+  },
+  {
+    "source": "assets/imported/media/image47.png",
+    "source_sha256": "307493ac3e4de76e4260eecc54204bcbedfd2c42b97c7d90dad5d195a39a0285",
+    "derivative": "assets/figure-crops/image47.svg",
+    "sha256": "1e4c9e8e3a51cc00289656cb734a91efc1b97af822fffd48701f3268a4e91d8e",
+    "viewport": [
+      72,
+      15,
+      757,
+      331
+    ],
+    "original_size": [
+      870,
+      369
+    ],
+    "method": "SVG viewport; embedded original pixels unchanged; padded white-margin crop"
+  },
+  {
+    "source": "assets/imported/media/image48.png",
+    "source_sha256": "674a551e65f5c2949ebd47f937aceae98190df65855460b9abfd7930266fe239",
+    "derivative": "assets/figure-crops/image48.svg",
+    "sha256": "93ecc098c6f95c417d345f297ce8b7da9d91e317042c4682303fff17dcfa39c2",
+    "viewport": [
+      47,
+      22,
+      771,
+      222
+    ],
+    "original_size": [
+      936,
+      287
+    ],
+    "method": "SVG viewport; embedded original pixels unchanged; padded white-margin crop"
+  },
+  {
+    "source": "assets/imported/media/image49.png",
+    "source_sha256": "b4be649232ca55ba69df26fc52d433a3586f8fd8138a8e7d020ee090e1be08cd",
+    "derivative": "assets/figure-crops/image49.svg",
+    "sha256": "dfb38d9a3e186e3d22c7fedc181ef2788292a3eed1d312f94398e79efb3ca0fd",
+    "viewport": [
+      59,
+      19,
+      782,
+      463
+    ],
+    "original_size": [
+      894,
+      517
+    ],
+    "method": "SVG viewport; embedded original pixels unchanged; padded white-margin crop"
+  },
+  {
+    "source": "assets/imported/media/image50.png",
+    "source_sha256": "eef48b5b5bf0e894ca2ab4509fb4612d38b36180a396801582a80e965c8c2bb2",
+    "derivative": "assets/figure-crops/image50.svg",
+    "sha256": "81d904bbc04f498bc6905aec1a8c357d58bce6feea58d27f798472b12af2aa35",
+    "viewport": [
+      38,
+      17,
+      698,
+      497
+    ],
+    "original_size": [
+      803,
+      536
+    ],
+    "method": "SVG viewport; embedded original pixels unchanged; padded white-margin crop"
+  },
+  {
+    "source": "assets/imported/media/image60.png",
+    "source_sha256": "ff4fa14379aea77c3205a87c1bea4108cc7cc5b0620a73424800955859a9ea58",
+    "derivative": "assets/figure-crops/image60.svg",
+    "sha256": "75fa4ec52fa30e08453b59f989cf762a3b2d217c6a5e487b47df96d13fe3f974",
+    "viewport": [
+      0,
+      166,
+      1601,
+      913
+    ],
+    "original_size": [
+      1919,
+      1079
+    ],
+    "method": "SVG viewport; embedded original pixels unchanged; padded white-margin crop"
+  },
+  {
+    "source": "assets/imported/media/image70.png",
+    "source_sha256": "8f82fda425a7d18e43699b6b4f6f9b1eef130b8c63bdaea1c9f245f02825ad41",
+    "derivative": "assets/figure-crops/image70.svg",
+    "sha256": "bd0f3b63612fc8464485a774d0fe16060e94e9ada7b0258ff7515e27ba9b854e",
+    "viewport": [
+      288,
+      78,
+      1400,
+      924
+    ],
+    "original_size": [
+      1920,
+      1080
+    ],
+    "method": "SVG viewport; embedded original pixels unchanged; padded white-margin crop"
+  }
+]

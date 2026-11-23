@@ -339,7 +339,7 @@ One way to visualize complex interactions and hypothesised causal pathways is th
 
 Figure 3 describes a simple DAG, whereby variable A (lactate) is assumed to directly influence variable B (fatigue) as represented by the direction of the arrow. But as summarised above, we know that the relationship between these variables is more complex than this, and a more accurate representation may be as follows:
 
-![](../assets/imported/media/image60.png)
+![](../assets/figure-crops/image60.svg)
 
 **Figure 4.** DAG illustrating confounding bias caused by high intensity exercise, a common cause of both lactate accumulation and muscle fatigue
 

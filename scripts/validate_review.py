@@ -31,7 +31,7 @@ def main():
     pages={}
     for f in SITE.rglob('*.html'):
         p=Page();p.feed(f.read_text(encoding='utf8'));pages[f.resolve()]=p
-    assert len(pages)==13,f'Expected 13 book pages, found {len(pages)}'
+    assert len(pages)==12,f'Expected 12 book pages, found {len(pages)}'
     for f,p in pages.items():
         assert p.banners==1,f'Missing or duplicate draft banner in {f.name}'
         assert not any(re.match(r'^\d+(?:\.\d+)*\.?\s',h) for h in p.headings),f'Numbered heading in {f.name}'
@@ -43,9 +43,22 @@ def main():
             assert target.exists(),f'Missing local target: {f.name}: {href}'
             if u.fragment and target in pages:assert unquote(u.fragment) in pages[target].ids,f'Missing anchor: {f.name}: {href}'
     first=pages[(SITE/'chapters/01-foundations.html').resolve()]
+    assert any(h == 'Acknowledgements' for h in first.headings),'Chapter one acknowledgements heading missing'
+    for file,page in pages.items():
+        if file.parent.name != 'chapters': continue
+        assert page.headings.count('References') == 1,f'Chapter references missing/duplicated: {file.name}'
+        if 'Footnotes' in page.headings:
+            assert page.headings.index('Footnotes') < page.headings.index('References'),f'Footnotes must precede references: {file.name}'
+    assert not (SITE/'backmatter/references.html').exists(),'Obsolete whole-book reference page remains'
     assert first.attributions==5,f'Expected 5 quotation attributions, found {first.attributions}'
     pdf=SITE/'research-methods-ses.pdf'
     assert pdf.is_file() and pdf.read_bytes().startswith(b'%PDF-'),'Whole-book PDF missing'
+    typ=R/'index.typ'
+    if typ.is_file():
+        text=typ.read_text(encoding='utf8')
+        assert '#footnote[' in text,'PDF must retain native page-level footnotes'
+        assert not re.search(r'#heading[^\n]+\[Footnotes\]',text),'Collected Footnotes sections belong only in HTML'
+        assert len(re.findall(r'#heading[^\n]+\[References\]',text))==9,'PDF must have nine chapter reference lists'
     for f in SITE.rglob('*'):
         parts=set(f.relative_to(SITE).parts)
         assert not parts.intersection({'editorial','private','_review','work','.git'}),f'Private path in site: {f}'

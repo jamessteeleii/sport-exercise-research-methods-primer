@@ -8,14 +8,14 @@
   "stages": [
     {
       "stage": "author-review",
-      "status": "planned",
+      "status": "prepared-not-sent",
       "tag": null,
       "commit": null,
-      "date": null,
-      "archive": null,
-      "manifest_sha256": null,
+      "date": "2026-11-23",
+      "archive": "_review/author-review-2026-11-23-circulation/author-review-package.zip",
+      "manifest_sha256": "a2aebc5d778bba59f08bd16040347177243498d05919d35ccea84276ed173cad",
       "book_doi": null,
-      "notes": null
+      "notes": "Frozen author review round with nine private chapter packages. Author approvals remain pending. Remote deployment must be verified before circulation."
     },
     {
       "stage": "submission",

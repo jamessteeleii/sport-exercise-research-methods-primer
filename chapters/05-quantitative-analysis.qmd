@@ -375,7 +375,7 @@ In the statistical test known as Multivariate analysis of variance (MANOVA), Wil
 
 To get a sense of what variance explained means, look at the Figure 18 below:
 
-![](../assets/imported/media/image42.png)
+![](../assets/figure-crops/image42.svg)
 
 **Figure 18.** Variance explained
 
@@ -391,7 +391,7 @@ Ratios express the relative magnitude of two quantities, indicating how much of 
 
 Sometimes in sports and exercise science, we have a measured variable that has just two categories --- something happened (labelled 1) or it didn\'t happen (labelled 0), *e.g.,* an athlete either experiences a particular injury or they don't. This is known as a binary variable because there are just two outcomes (1 and 0). One of the metrics we get after analysing this data (using logistic regression for example) is called an odds ratio. It describes the relationship between an independent variable (e.g., a risk factor) and a binary outcome (e.g., injury). An odds ratio of 1 means that the likelihood of either event happening is equal. An odds ratio greater than 1 indicates an increased likelihood of the outcome, while an odds ratio less than 1 indicates a decreased likelihood. Figure 20 illustrates this using a fictitious example of predicting injury using three factors, *i.e.,* whether or not there was recovery time between matches, the total seasonal training volume and weekly training volume.
 
-![](../assets/imported/media/image44.png)
+![](../assets/figure-crops/image44.svg)
 
 **Figure 20.** Odds Ratio and their confidence intervals for predictors of injury
 
@@ -447,7 +447,7 @@ Causal modelling allows researchers to represent and analyse cause-and-effect re
 
 The following series of figures demonstrates how DAGs can be used to explore causal relationships between variables. In a DAG, an open path has arrows pointing in the same direction, and the association between these variables reflects a causal relationship.
 
-![](../assets/imported/media/image45.png)
+![](../assets/figure-crops/image45.svg)
 
 **Figure 21.** An open path on a DAG
 
@@ -455,19 +455,19 @@ However, two variables might be correlated either due to the causal connection (
 
 A closed (or blocked) path is a pair of variables that have the same effect in causal modelling, known as a **Collider.** In a DAG this is where two arrows meet --- they collide! (see Figure 22).
 
-![](../assets/imported/media/image46.png)
+![](../assets/figure-crops/image46.svg)
 
 **Figure 22.** A collider in a DAG
 
 A **Confounder** creates an open backdoor path between two variables X and Y and results from the exposure and the outcome having a common cause (see Figure 23). For example, consider the relationship between physical activity and heart health. If we do not account for age, it can act as a confounder because age affects both physical activity levels and heart health. Without controlling for age, the observed relationship between physical activity and heart health might be misleading, as it would not account for the influence of age.
 
-![](../assets/imported/media/image47.png)
+![](../assets/figure-crops/image47.svg)
 
 **Figure 23.** A confounder in a DAG
 
 A **Mediator** is an intermediate variable that lies on the causal pathway between two variables and explains or clarifies the relationship (see Figure 24). For example, let\'s consider the relationship between strength training and improved sprint performance. Suppose that strength training increases muscle power (the mediator), which enhances sprint performance. In this scenario, muscle power mediates the relationship between strength training and sprint performance.
 
-![](../assets/imported/media/image48.png)
+![](../assets/figure-crops/image48.svg)
 
 **Figure 24.** A mediator in a DAG
 
@@ -485,13 +485,13 @@ Let's take a simple example, if we were interested in looking at the impact of a
 
 In this simple example, the paths are all open with no backdoor paths (see Figure 25 below).
 
-![](../assets/imported/media/image49.png)
+![](../assets/figure-crops/image49.svg)
 
 **Figure 25.** DAG for the effect of a vegan diet on strength
 
 Here is another simple DAG example where on this occasion we need to control for a variable to make sure we analyse the causal relationship. If we wanted to look at the effect of "Experience of School Sport" on "Physical Activity", we could set up the following DAG where our exposure variable is "Experience of School Sport", the outcome variable is "Physical Activity". If we were to just regress "Experience of School Sport" on "Physical Activity (i.e. Physical Activity \~ Experience of Sport at School), we would get a biased answer. To obtain an unbiased answer we need to condition on the "Quality of Physical Education" (see Figure 26 below). In a regression model, this would mean Physical Activity \~ Experience of Sport at School + Quality of Physical Education.
 
-![](../assets/imported/media/image50.png)
+![](../assets/figure-crops/image50.svg)
 
 **Figure 26.** The "Experience of School Sport" on "Physical Activity" an example of the need to control for a confounder.
 

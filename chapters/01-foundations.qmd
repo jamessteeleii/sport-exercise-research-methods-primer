@@ -45,7 +45,7 @@ Parry [-@parryMustScientistsThink2005], in discussing whether sport and exercise
 
 In the following sections of this chapter, I will outline some of the key philosophical concepts that make up the typical structure of the sciences and discuss their interrelationships (figure 1). Grix [-@grixIntroducingStudentsGeneric2002] refers to these as the '*building blocks*' that students need before they then begin to train and understand scientifically their substantive disciplinary traditions. Many research methods textbooks within the sport and exercise sciences focus primarily on the introduction of methodologies, specific methods, and the handling and analysis of data they generate whilst omitting explicit introduction to the more foundational concepts of *ontology* (what there is to know about) and *epistemology* (how can we know about it)[^ch01-10], and the various philosophical traditions that are comprised of different ontological and epistemological positions. This *'methodology-led'* or *'methods-led'* approach to research training is unfortunate as, in my opinion, it resigns learners intending to become scientists to unknowingly become primarily technicians[^ch01-11]. Instead, *'question-led'* research from a firm foundation of the ontological and epistemological assumptions brought to the table seems a far more logical approach to this game we call science.
 
-![](../assets/imported/media/image1.png)
+![](../assets/figure-crops/image1.svg)
 
 **Figure 1.** The conceptual building blocks of research and their interrelationship (adapted from [@grixIntroducingStudentsGeneric2002; @hayPoliticalAnalysisCritical2002])
 
@@ -163,7 +163,7 @@ Popper's World 3, and Bhaskar's transitive objects of knowledge are where our *e
 
 As I mentioned in the preceding section, there are almost as many named philosophical traditions as there are practicing philosophers. So, don't get bogged down in trying to determine how best to label yourself in that regard. Instead, try to just think carefully through the different positions you take regarding your ontological and epistemological assumptions. The differentiation between the causal realm, actual realm, and empirical realm are useful to aid in breaking down your reflection on these matters and seeing which "Worldview" best reflects your position. The exercise below gives a task to think through this and figure 4 provides a simple example I've used in initially introducing these concepts when teaching[^ch01-41]. If I were to let go of my coffee cup I would notice that it falls to the ground (figure 4.1). This is an empirical observation; it is this sort of thing that we'd usually call *data* in our research. If I were to do it again (and again, and again) I may start to notice that it appears to be a consistent pattern that letting go of my coffee cup is associated with it falling to the ground (figure 4.2). I might infer this constant conjunction of events (let go of my coffee cup, it falls to the ground) to be an actual phenomenon that I can describe. Then I might begin to consider why it happens and develop a theory that acts as an explanation for the phenomenon (and each unique observation of the events it describes occurring) such as the law of universal gravitation (figure 4.3). Though, this underlying cause is not directly observable.
 
-![](../assets/imported/media/image4.png)
+![](../assets/figure-crops/image4.svg)
 
 **Figure 4.** Example demonstrating the differentiation between the 1) empirical realm consisting of what we can "observe", the data we use in our research, 2) the actual realm where we notice patterns of constant conjunctions of events i.e., phenomena, and 3) the causal realm where we infer there are underlying causal powers or mechanisms that might explain the phenomena and observations.
 
@@ -503,7 +503,7 @@ We can roughly categorise the kinds of questions that you might pose in scientif
 
 One key activity that forms an essential part of science is *description* and this is the case irrespective of your particular ontological and epistemological commitments i.e., whether you wish to describe empirical experience or generalizable phenomena and events for their own sake or for later explanation*.* Sadly, in the current climate of research such exploratory work is often referred to with disdain as 'mere' description [@gerringMereDescription2012]^,^[^ch01-71]. And yet, myriad works that are explicitly descriptive, such as the observation and inference of phenomena, have garnered Nobel prizes [@bonettoLostIdeaPsychology2023]. Such research which deals with specific cases, or documents consistent empirical observations and infers phenomena, is crucial for the formation of concepts that form the building blocks of theory [@scheelWhyHypothesisTesters2021a]. Descriptive questions can also be posed in purely technological contexts such as asking whether a particular intervention is associated with a particular outcome (we might wish to say it *causes* the outcome dependent on our ontological commitment there, but we don't necessarily need to be able to *explain* how it does). Descriptive research is not limited to particular methods either and often combinations of textual, numerical, and visual documentation are used. Gerring [-@gerringMereDescription2012] explains that the kinds of activities that description involves aim at making an argument about the world which answers a *what* type of question (e.g., when, whom, out of what, in what manner etc.). They are about what is, or what was. He provides a useful taxonomy to aid in thinking about the kinds of descriptive research activities that one could go about engaging in (see figure 9).
 
-![](../assets/imported/media/image10.png)
+![](../assets/figure-crops/image10.svg)
 
 **Figure 9.** Taxonomy of descriptive research activities. Reproduced from Gerring [-@gerringMereDescription2012].
 
@@ -527,7 +527,7 @@ Ideally, strong theories are able to give us both predictive power and deep unde
 
 As noted, Dubin [-@dubinTheoryBuilding1978] presented a widely used method for accomplishing his books namesake; theory building. He emphasized the theory-research cycle as consisting of eight stages, half of which pertain to the research activities involved in *theory development* (and which he considered to fall under the auspices of *descriptive research* with respect to the use of empirical observations in the development of theory), and half of which pertain to the research operations aimed at *theory testing* or *appraisal.* Figure 11 shows these eight stages. These methods have been summarised by numerous other authors [@fryCongruenceContingencyTheory1987; @holtonGeneralResearchProcess2007; @lynhamQuantitativeResearchTheory2002; @scheelWhyHypothesisTesters2021a] but Box 2 provides a brief overview.
 
-![](../assets/imported/media/image12.png)
+![](../assets/figure-crops/image12.svg)
 
 **Figure 11.** The eight stages of theory-research in Dubin's [@dubinTheoryBuilding1978] Theory Building methodology.
 
@@ -645,7 +645,7 @@ At least at this stage in history, there is no one Scientific Method™ to rule 
 
 The rest of this book will also encourage you to do the same. As you read each chapter which will cover a range of specific methods in greater detail, you should think carefully, critically, and continually reflect on the foundational assumptions that you bring to the table whilst you attempt to play this fascinating game, we call science.
 
-Acknowledgements
+## Acknowledgements {#ch01-acknowledgements}
 
 I would like to thank my co-editor Eimear Dolan, and Jennifer Murphy for their feedback on the first version of this chapter.
 

@@ -1,0 +1,32 @@
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const toolbar = document.createElement('div');
+  toolbar.className = 'reading-controls';
+  toolbar.setAttribute('aria-label', 'Reading preferences');
+  const font = document.createElement('button');
+  font.type = 'button';
+  font.className = 'reading-font-toggle';
+  font.textContent = 'OpenDyslexic font';
+  const sync = () => font.setAttribute('aria-pressed', String(document.documentElement.classList.contains('font-opendyslexic')));
+  sync();
+  font.addEventListener('click', () => {
+    const enabled = document.documentElement.classList.toggle('font-opendyslexic');
+    try { localStorage.setItem('ses-reading-font', enabled ? 'opendyslexic' : 'default'); } catch (_) {}
+    sync();
+  });
+  toolbar.append(font);
+  const theme = document.createElement('button');
+  theme.type = 'button';
+  const updateTheme = () => {
+    const dark = document.body.classList.contains('quarto-dark');
+    theme.textContent = dark ? 'Light mode' : 'Dark mode';
+    theme.setAttribute('aria-label', 'Switch to ' + (dark ? 'light' : 'dark') + ' mode');
+  };
+  theme.addEventListener('click', () => { if (window.quartoToggleColorScheme) window.quartoToggleColorScheme(); updateTheme(); });
+  updateTheme();
+  new MutationObserver(updateTheme).observe(document.body, {attributes:true, attributeFilter:['class']});
+  toolbar.append(theme);
+  const main = document.querySelector('main');
+  if (main) main.prepend(toolbar);
+});
+</script>
